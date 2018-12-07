@@ -8,9 +8,10 @@ var TopicsSchema = new mongoose.Schema({
   list: Array,
 });
 
+
+// 全部文章
 const topicsModel = mongoose.model('Topics', TopicsSchema);
 
-// const Topics = mongoose.model('Topics');
 
 const app = express();
 // 解决node跨域问题
@@ -22,29 +23,32 @@ app.all('*', function(req, res, next) {
   res.header("Content-Type", "application/json;charset=utf-8");
   next();
 });
-  fetch('https://cnodejs.org/api/v1/topics').then(res => res.json())
-  .then(res => (topicsModel({list: res.data}).save(function(error){
-    if(error) throw (error);
-    console.log('保存成功');
-  })))
+  // fetch('https://cnodejs.org/api/v1/topics?mdrender=false&page=50').then(res => res.json())
+  // .then(res => (topicsModel({list: res.data}).save(function(error){
+  //   if(error) throw (error);
+  //   console.log('保存成功');
+  // })))
 
-
-const data = {
-  "newData": [
-    {
-      "name": "haha",
-      "age": 3,
-      "id": 1
-    },
-    {
-      "name": "weiwei",
-      "age": 3,
-      "id": 2
-    },
-  ]
-}
 app.get('/', function (req, res) {
-  res.send(JSON.stringify(data))
+  topicsModel.findOne({_id: '5c0a225e9a05b3dea547032e'}, function(err, doc) {
+    if (err) {
+      console.log('err:', err);
+      return;
+    }
+    res.send(JSON.stringify(doc.list))
+
+  })
+})
+app.get('/:id', function (req, res) {
+
+  topicsModel.find({_id: '5c0a225e9a05b3dea547032e', "list.id":req.params.id},{"list.$":1}, function(err, doc) {
+    if (err) {
+      console.log('err:', err);
+      return;
+    }
+    res.send(JSON.stringify(doc[0].list[0]))
+
+  })
 })
 
 app.listen(3000);

